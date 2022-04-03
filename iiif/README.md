@@ -3,15 +3,5 @@
     - nav:
         - [Home](/)
         - [About](/about)
-        
-# Visual Essays
 
-## IIIF
-
-- [IIIF](iiif)
-
-#### Image hosting sites
-
-#### Github
-
-- [Examples](examples)
+[Auto-manifests](auto-manifests)
