@@ -1,10 +1,10 @@
 
-ve-image, ve-entities, .section1, .float-right, .float-left {
+ve-image, ve-entities, .section1, .section2, .float-right, .float-left {
   clear: both;
 }
 
 ve-image {
-  width: 50%;
+  width: 40%;
 }
 
 ve-image {
