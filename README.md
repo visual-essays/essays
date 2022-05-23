@@ -1,6 +1,7 @@
 .ve-header "visual-essays.net" wc:Zelfportret_met_strohoed_-_s0164V1962_-_Van_Gogh_Museum.jpg options=pct:3,23,80,20 position=center sticky=true
     - [Home](/)
     - [About](/about)
+
 # visual-essays.net
 
 [visual-essays.net](https://visual-essays.net) is  home to a suite of tools and services used to create and display visual essays.  A __visual essay__ is a  web page that combines text content with interactive visualizations.  Visual essays are defined using Markdown text augmented with a simple set of custom tags for adding visualizations and creating user interactions.
