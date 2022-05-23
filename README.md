@@ -1,4 +1,4 @@
-.ve-header "Visual Essays" wc:Zelfportret_met_strohoed_-_s0164V1962_-_Van_Gogh_Museum.jpg subtitle pct:0,25,80,20 center sticky=true
+.ve-header "visual-essays.net" wc:Zelfportret_met_strohoed_-_s0164V1962_-_Van_Gogh_Museum.jpg options=pct:3,23,80,20 position=center sticky=true
     - [Home](/)
     - [About](/about)
 # visual-essays.net
@@ -35,10 +35,10 @@ The IIIF image viewer displayed to right provides full image zoom and pan.  This
 
 Selecting the menu icon (three vertical dots), located in the left portion of the caption bar at the bottom of the image, will open an image information panel where additional information about the image is displayed.  This includes reuse rights and any attribution statements associated with the image.
 
-This example also illustrates the use of a simple user interaction.  The interaction causes the viewer to zoom to a region of the image when a ==marked section of text=={1439,1797,2232,2794} is clicked.  Text is "marked" by wapping the text with `==` strings.  The marked text can then be associated with an interaction that is performed on the closest viewer, in this case the viewer displaying the Van Gogh self-portrait image.  The default interaction is to zoom to a specific region of the image.  The region is defined by bounding box coordinates provided in an attributes tag following the marked text.  Attributes are defined by wrapping text with `{` and `}` characters.  The snippet below shows the use of marked text and an attribute tag to create the `zoom to` interaction used in this example.
+This example also illustrates the use of a simple user interaction.  The interaction causes the viewer to zoom to a region of the image when a ==marked section of text=={1608,1902,1550,1941} is clicked.  Text is "marked" by wapping the text with `==` strings.  The marked text can then be associated with an interaction that is performed on the closest viewer, in this case the viewer displaying the Van Gogh self-portrait image.  The default interaction is to zoom to a specific region of the image.  The region is defined by bounding box coordinates provided in an attributes tag following the marked text.  Attributes are defined by wrapping text with `{` and `}` characters.  The snippet below shows the use of marked text and an attribute tag to create the `zoom to` interaction used in this example.
 
 ```
-...image when a ==marked section of text=={1439,1797,2232,2794} is clicked...
+...image when a ==marked section of text=={1608,1902,1550,1941} is clicked...
 ```
 
 At this point the question would naturally be - "how do I get the `zoom to` bounding box coordinates?".  This is easily accomplished by positioning the image in the desired location in the viewer and then. hovering over the bottom right corner of the caption bar.  When hovering over this section the bounding box coordinates are displayed and can be copied by clicking on them.  After clicking on the the coordinates they can be pasted into the attributes tag.
