@@ -1,5 +1,4 @@
-# Kent Maps Images
-# Using Github as an IIIF Image Repository
+# Github as an IIIF Image Repository
 
 This document describes an experimental approach for hosting IIIF images in a Github repository.  In this approach image and IIIF properties files are stored in a Github repository and served by an external service that dynamically generates IIIF presentation manifests and serves IIIF image tiles from the Github content.
 
