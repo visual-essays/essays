@@ -1,4 +1,4 @@
-.ve-header "visual-essays.net" wc:Zelfportret_met_strohoed_-_s0164V1962_-_Van_Gogh_Museum.jpg options=pct:3,23,80,20 position=center sticky=true
+.ve-header "Juncture" wc:Zelfportret_met_strohoed_-_s0164V1962_-_Van_Gogh_Museum.jpg options=pct:3,23,80,20 position=center sticky=true
     - [Home](/)
     - [About](/about)
 
@@ -18,7 +18,7 @@ In addition to rich IIIF support, future versions visual-essays.net will also in
 
 ## Example
 
-.ve-image wc:Zelfportret_met_strohoed_-_s0164V1962_-_Van_Gogh_Museum.jpg
+.ve-image wc:Zelfportret_met_strohoed_-_s0164V1962_-_Van_Gogh_Museum.jpg sticky
 
 Visual essays are plain text files with a few simple tags for text formatting and adding visualizations and defining user interactions.  The essay file is transformed into a web page by a back end service.  All pages on the visual-essays.net site are constructed using this approach and are thus visual essays.
 
