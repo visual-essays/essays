@@ -1,4 +1,4 @@
-.ve-header "Vimeo Example" Doubs_2_banner.jpg sticky=true
+.ve-header "Vimeo Example" wc:Doubs_2_banner.jpg sticky
 
 # Vimeo Video
 

@@ -1,3 +1,5 @@
+.ve-header "ve-video Examples" wc:Doubs_2_banner.jpg sticky
+
 # ve-video Examples
 
 - [Youtube](youtube)

@@ -1,4 +1,4 @@
-.ve-header "Youtube Example" Doubs_2_banner.jpg sticky=true
+.ve-header "Youtube Example" wc:Doubs_2_banner.jpg sticky
 
 # Youtube Video
 

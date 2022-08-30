@@ -1,4 +1,4 @@
-.ve-header "Github Hosted Video Example" Doubs_2_banner.jpg sticky=true
+.ve-header "Github Hosted Video Example" wc:Doubs_2_banner.jpg sticky
 
 # Github Hosted Video
 

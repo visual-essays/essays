@@ -1,4 +1,4 @@
-.ve-header "Wikimedia Commons Video Example" Doubs_2_banner.jpg sticky=true
+.ve-header "Wikimedia Commons Video Example" wc:Doubs_2_banner.jpg sticky
 
 # Wikimedia Commons Video
 
