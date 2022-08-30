@@ -1,6 +1,6 @@
 # ve-video Examples
 
-- [Youtube](youtybe)
+- [Youtube](youtube)
 - [Vimeo](vimeo)
 - [Github hosted video](github-hosted)
 - [Wikimedia Commons](wikimedia)
