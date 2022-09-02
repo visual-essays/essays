@@ -1,6 +1,6 @@
-.ve-header "Youtube Example" wc:Doubs_2_banner.jpg sticky
+.ve-header "YouTube Example" wc:Doubs_2_banner.jpg sticky
 
-# Youtube Video
+# YouTube Video
 
 .ve-video https://www.youtube.com/watch?v=aPFN14CPISk sticky
 
