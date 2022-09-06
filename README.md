@@ -1,21 +1,41 @@
+<style>
+    main > section {
+        padding: 24px 12px;
+        margin-top: 24px;
+    }
+    main > section:nth-of-type(even) {
+        background-color: #F5F5F5;
+    }
+    .card-title {
+        min-height: 5rem;
+    }
+    .card-abstract {
+        height: unset;
+        align-self: unset;
+    }
+</style>
+
 .ve-meta title="Juncture" description="Tool suite for easily building visual essays using Markdown."
 
-.ve-header background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png sticky
-    - [Nav item 1]()
-    - [Nav item 2]()
-    - [Nav item 3]()
+.ve-header background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png contact=Ron.Snyder@ithaka.org sticky
+    - [Home](/)
+    - [About](/about)
+    - [Contact us](/contact)
+    - [Tools](/tools)
+    - [Editor](/essays)
+    - [Media](/media)
 
 # {style="height:400px; background:url(https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Hero.png); margin-top:64px; display:flex; flex-direction:column;"}
 
 Create and share interactive essays using free and open web resources
-{style=color:white;text-align:center;font-size:2rem;max-width:50%;margin:auto;font-family:Georgia;}
+{.hero-text}
 
 [Get Started]()
-{style="width:300px;background-color:#FFE55A;border-radius:50px;font-family:Roboto;font-size:30px;padding:16px 72px; margin:auto; margin-top:0;"}
+{.cta}
 
 #
 
-.ve-video https://raw.githubusercontent.com/visual-essays/media/main/videos/Juncture.mp4
+.ve-video https://raw.githubusercontent.com/visual-essays/media/main/videos/Juncture.mp4 poster=https://raw.githubusercontent.com/jstor-labs/juncture-digital/main/images/video-thumbnail.png
 
 ## About
 
@@ -85,3 +105,8 @@ Each visual essay has a default web address that can be used for viewing and sha
 ![create a juncture site](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/visual-essays/media/main/images/Create_Juncture_Site.png)
 
 Juncture can be used to create a full-featured website that includes multiple visual essays and other content pages. This [creating a juncture site quick start guide](https://github.com/jstor-labs/juncture/wiki/Juncture-Site-Quick-Start) provides step-by-step instructions for creating and configuring a new Juncture site.  Instructions are also provided for adding and modifying content.
+
+.ve-footer
+    - Brought to you by:  [![](https://raw.githubusercontent.com/jstor-labs/juncture-digital/c7d73fb/images/Labs_logo_knockout.svg)](https://labs.jstor.org)
+    - [About]()
+    - [Terms and conditions]()
