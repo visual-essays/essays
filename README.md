@@ -25,7 +25,7 @@
     - [Editor](/essays)
     - [Media](/media)
 
-# {style="height:400px; background:url(https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Hero.png); margin-top:64px; display:flex; flex-direction:column;"}
+# {.hero style=background:url(https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Hero.png)}
 
 Create and share interactive essays using free and open web resources
 {.hero-text}
