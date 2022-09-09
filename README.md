@@ -24,6 +24,7 @@
     - [Tools](/tools)
     - [Editor](/essays)
     - [Media](/media)
+    - [Documentation](/help)
 
 # {.hero style=background:url(https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Hero.png)}
 
