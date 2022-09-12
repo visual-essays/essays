@@ -21,6 +21,9 @@ JSTOR is a digital library with a mission to expand access to historical and edu
 JSTOR and JSTOR Labs are part of the nonprofit organization ITHAKA, whose mission is to advance, preserve and increase access to knowledge, and to improve teaching and learning through the use of digital technologies. This vision implicitly hinges upon expanding this access of diverse populations and communities of learners. JSTOR Labs’s work is one part of an organization-wide program aimed at supporting the needs of incarcerated learners. In addition to efforts to increase incarcerated students’ access to academic resources, this program includes original research conducted by Ithaka S+R, ITHAKA’s research and strategic advisory group, to help guide programs and policies toward better academic outcomes for incarcerated individuals, and the American Prison Newspapers: 1880-2020 project, which seeks to deepen public understanding of mass incarceration through digitization of hundreds of newspapers published in US prisons over the past 200 years.
 
 ## About Dumbarton Oaks
+.ve-image
+	- wc:Dumbarton_Oaks_fountain.jpg
+	- wc:Dumbarton_Oaks_wall.jpg
 
 Dumbarton Oaks is a Harvard University research institute, library, museum, and garden located in Washington, DC. The institution is the legacy of Robert and Mildred Bliss, collectors of art and patrons of learning in the humanities. Dumbarton Oaks’ mission is, first, to maintain what we have been entrusted by the Blisses to preserve. Second, to support the pursuit of the humanities as a whole, with particular focus on the disciplines of Byzantine, Pre-Columbian, and Garden and Landscape Studies. Third, to honor the intention of the donors by achieving the greatest mutual advantage between Harvard and Dumbarton Oaks. Fourth, to serve the larger public through the museum, garden, and our music program. 
 
