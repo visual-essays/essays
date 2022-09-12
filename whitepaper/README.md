@@ -112,7 +112,6 @@ Develop / genericize LOD search
 
 Our work on the Plant Humanities Lab validated the potential for linked open data as a means of integrating and connecting diverse multimedia primary and secondary source content. We saw first hand the potential for digital humanities-based tools to support multidisciplinary project-based learning, helping students to gain digital skills that will help them in the marketplace while providing an engaging and empowering learning experience.
 
-# References
 [^ref1]:  _A Thousand Plateaus_
 [^ref2]:  https://lucian.uchicago.edu/blogs/mediatheory/keywords/rhizome/ 
 [^ref3]:  https://juncture-digital.org
