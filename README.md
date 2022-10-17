@@ -19,26 +19,28 @@
 
 .ve-header background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png contact=Ron.Snyder@ithaka.org sticky
     - [Home](/)
+    - [Editor](/editor)
+    - [Media tool](/media-tool)
     - [Contact us](/contact)
-    - [Tools](/tools)
+    - auth
 
 # {.hero style=background:url(https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Hero.png)}
 
 Create and share interactive essays using free and open web resources
 {.hero-text}
 
-[Get Started]()
+[Get Started](#get-started)
 {.cta}
 
 #
 
-.ve-video https://raw.githubusercontent.com/visual-essays/media/main/videos/Juncture.mp4 poster=https://raw.githubusercontent.com/jstor-labs/juncture-digital/main/images/video-thumbnail.png
-
 ## About
 
 Juncture is a free-to-use, open source framework for converting simple text files into an engaging visual essay. A visual essay is an interactive and responsive web page that augments a text narrative with visual elements to provide depth and context.
-<br/><br/>
+
 With Juncture you can create a single essay or build a full website consisting of multiple visual essays with navigation, site info pages, contact form, logo, and other simple customizations.
+
+.ve-video https://raw.githubusercontent.com/visual-essays/media/main/videos/Juncture.mp4 poster=https://raw.githubusercontent.com/jstor-labs/juncture-digital/main/images/video-thumbnail.png
 
 
 # Juncture is... {.cards .clear #why-use-juncture}

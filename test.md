@@ -32,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### {.right .sticky style="height:50vh; background:white; border:1px solid red"}
+### {.right .sticky style=height:50vh}
 
 .ve-image wc:AmalfiCoast11.jpg fit=pct:33,33,34,34 no-scroll
 
@@ -111,7 +111,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-.ve-footer
+.ve-footer style=background-color:white;color:#444
     - A collaboration between: ![CCCU](https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/CCCU-logo-2colour.svg) [![JSTOR Labs](https://raw.githubusercontent.com/kent-map/kent/main/images/labs.jpg)](https://labs.jstor.org)
     - [![](https://raw.githubusercontent.com/kent-map/kent/main/images/twitter.png)](https://twitter.com/KentMaps1)
     {.push}
