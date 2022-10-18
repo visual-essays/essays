@@ -6,8 +6,6 @@
     - Contact Us
     - auth
 
-updated
-
 # Amalfi
 
 Amalfi is a town and _comune_ in the province of Salerno, in the region of Campania, Italy, on the Gulf of Salerno. It lies at the mouth of a deep ravine, at the foot of Monte Cerreto, surrounded by dramatic cliffs and coastal scenery. The town of Amalfi was the capital of the maritime republic known as the Duchy of Amalfi, an important trading power in the Mediterranean between 839 and around 1200.[^1]
