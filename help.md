@@ -1,5 +1,7 @@
 .ve-meta title="Visual Essays Help"
 
+.ve-header "Juncture Help"
+   
 # Visual Essays Help
 
 ### Quick links
