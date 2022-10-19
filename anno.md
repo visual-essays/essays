@@ -1,4 +1,3 @@
-test
 .ve-header "Amalfi" wc:AmalfiCoast11.jpg sticky subtitle="Annotation test" contact=ron.snyder@ithaka.org
     - [Home](/)
     - [About](/about)
