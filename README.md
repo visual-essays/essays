@@ -17,7 +17,7 @@
 
 .ve-meta title="Juncture" description="Tool suite for easily building visual essays using Markdown."
 
-.ve-header background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png contact=Ron.Snyder@ithaka.org sticky
+.ve-header background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png url=/ contact=Ron.Snyder@ithaka.org sticky
     - [Home](/)
     - [Editor](/editor)
     - [Media tool](/media-tool)
