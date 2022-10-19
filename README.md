@@ -22,6 +22,7 @@
     - [Editor](/editor)
     - [Media tool](/media-tool)
     - [Contact us](/contact)
+    - [Documentation](/docs)
     - auth
 
 # {.hero style=background:url(https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Hero.png)}
