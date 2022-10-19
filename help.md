@@ -1,6 +1,6 @@
 .ve-meta title="Juncture Documentation"
 
-.ve-header "Juncture Documentation" background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png sticky
+.ve-header "Juncture Documentation" background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png
    
 # Visual Essays Help
 
