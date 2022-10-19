@@ -13,7 +13,7 @@
   - [.ve-image-grid](#ve-image-grid)
   - [.ve-meta](#ve-meta)
   - [.ve-style](#ve-style)
-  - [external link](/annos)
+  - [external link](/anno)
 
 **Howto's**
 
