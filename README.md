@@ -37,26 +37,26 @@ Create and share interactive essays using free and open web resources
 
 ## About
 
-Juncture is a free-to-use, open source framework for converting simple text files into an engaging visual essay. A visual essay is an interactive and responsive web page that augments a text narrative with visual elements to provide depth and context.
+Juncture is a free-to-use, open source framework for converting simple text files into an engaging visual essay. A visual essay is an interactive web page that augments a text narrative with visual elements to provide depth and context.
 
-With Juncture you can create a single essay or build a full website consisting of multiple visual essays with navigation, site info pages, contact form, logo, and other simple customizations.
+With Juncture you can create a single essays or build a full website consisting of multiple visual essays. complete with navigation, site info pages, a contact form, logo, and other simple customizations.
 
 .ve-video https://raw.githubusercontent.com/visual-essays/media/main/videos/Juncture.mp4 poster=https://raw.githubusercontent.com/jstor-labs/juncture-digital/main/images/video-thumbnail.png
 
 
 # Juncture is... {.cards .clear #why-use-juncture}
 
-## Free, open and minimal
+## Free, open and extensible
 
 ![free-open-source](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/visual-essays/media/main/images/Free_open_source.png)
 
-Juncture is open source and free to use and to modify.  Adhering to minimal computing principles, Juncture uses static files and open technologies to create memorable essays.
+Juncture is open source and free to use and to modify.  Juncture uses simple text files and open technologies to create memorable essays.  Juncture is a set of web services and does not retain any user content.  The text files used by Juncture to render visual essays are read from user owned Github repositories.
 
 ## Interactive, image-rich and interdisciplinary
 
 ![interactive, image-rich and interdisciplinary](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/visual-essays/media/main/images/Digital_Humanities.png)
 
-Designed for narratives exploring complex and nuanced subjects, Juncture essays are linked open data aware texts augmented with engaging and interactive components, including annotated high-resolution images, network visualizations, interactive maps and other elements.
+Designed for narratives exploring complex and nuanced subjects, Juncture essays are linked open data aware texts augmented with engaging and interactive components, including annotated high-resolution images, videos, interactive maps and other elements.
 
 ## A great way to build digital skills
 
@@ -92,19 +92,19 @@ Juncture uses [Github](https://github.com/jstor-labs/juncture/wiki/Github-overvi
 
 ![create a visual essay](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/visual-essays/media/main/images/Create_Essay.png)
 
-The first step in getting acquainted with Juncture is to create a simple visual essay in your personal Github account. Write an essay about a topic you like and follow this [visual essay quick start guide](https://github.com/jstor-labs/juncture/wiki/Visual-Essay-Quick-Start) to visualize your essay. It will take about 10 minutes to prepare the interactive essay.
+The first step in getting acquainted with Juncture is to create a simple visual essay in your personal Github account. Write an essay about a topic you like and follow this [visual essay quick start guide](/docs/quick-start) to visualize your essay. It will take about 10 minutes to prepare the interactive essay.
 
 ## View and Share your visual essays
 
 ![view and share visual essay](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/visual-essays/media/main/images/View_and_Share.png)
 
-Each visual essay has a default web address that can be used for viewing and sharing the essay.  Other URLs, including your own custom domain name can be used if you create a Juncture site. This [viewing and sharing visual essays guide](https://github.com/jstor-labs/juncture/wiki/Viewing-and-Sharing-Visual-Essays) provides simple instructions for accessing and sharing your visual essays.
+Each visual essay has a web address that can be used for viewing and sharing the essay.  Other URLs, including your own custom domain name can be used if you create a Juncture site. This [viewing and sharing visual essays guide](/docs/sharing-essays) provides simple instructions for accessing and sharing your visual essays.
 
 ## Create a Juncture site
 
 ![create a juncture site](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/visual-essays/media/main/images/Create_Juncture_Site.png)
 
-Juncture can be used to create a full-featured website that includes multiple visual essays and other content pages. This [creating a juncture site quick start guide](https://github.com/jstor-labs/juncture/wiki/Juncture-Site-Quick-Start) provides step-by-step instructions for creating and configuring a new Juncture site.  Instructions are also provided for adding and modifying content.
+Juncture can be used to create a full-featured website that includes multiple visual essays and other content pages. This [creating a juncture site quick start guide](/docs/juncture-site-quick-start) provides step-by-step instructions for creating a new Juncture site. 
 
 .ve-footer
     - Brought to you by:  [![](https://raw.githubusercontent.com/jstor-labs/juncture-digital/c7d73fb/images/Labs_logo_knockout.svg)](https://labs.jstor.org)
