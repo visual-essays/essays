@@ -1,4 +1,4 @@
-.ve-header "Juncture Quick Start" background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png url=/docs
+.ve-header "Juncture Quick Start" background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png url=/docs sticky
 
 # Getting started with Juncture
 
