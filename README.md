@@ -20,7 +20,7 @@
 .ve-header background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png url=/ contact=Ron.Snyder@ithaka.org sticky
     - [Home](/)
     - [Editor](/editor)
-    - [Media tool](/medial)
+    - [Media tool](/media)
     - [Contact us](/contact)
     - [Documentation](/docs)
     - auth
