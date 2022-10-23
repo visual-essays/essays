@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Cathedral",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/c2fee10981c3d6b7848cb3a56fae43a7.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3541.9423828125,848.85302734375,641.43505859375,1323.558349609375"
+      },
+      "id": "0c78b8e4"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7442c172"
+  }
+]
