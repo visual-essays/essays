@@ -31,13 +31,13 @@
 
 Lorem ipsum dolor sit amet, ==consectetur adipiscing=={1425,1169,394,478} elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Zoom to annotation {.clear}
+## Zoom to annotation
 
 .ve-image wc:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg
 
 Lorem ipsum dolor sit amet, ==consectetur adipiscing=={d905d882} elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Using Wikidata {.clear}
+## Using Wikidata
 
 Q5435849
 
