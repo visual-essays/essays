@@ -1,5 +1,7 @@
 Q5435849
 
+.ve-header sticky
+
 # Farmhouse in Provence
 
 Farmhouse in Provence, also known as Entrance Gate to a Farm with Haystacks, is an oil-on-canvas painting produced in 1888 by Dutch painter Vincent van Gogh in Arles, Provence, at the height of his career. Partially due to having been inspired by painter Adolphe Monticelli, Van Gogh sought the Provence region of France to further expand his painting skill and experience. Van Gogh used several pairs of complementary colors in the Farmhouse in Provence, the color contrast bringing an intensity to his work. The painting is owned by the National Gallery of Art in Washington, D.C.
