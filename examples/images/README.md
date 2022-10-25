@@ -1,3 +1,4 @@
 # Images
 
-- [Compare options](compare)
+- [Image comparison](compare)
+- [Image interactions](interactions)
