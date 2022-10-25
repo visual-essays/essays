@@ -1,5 +1,4 @@
 # Examples
 
-[Example](example)
-
-[Videos](videos)
+  - [Images](images)
+  - [Videos](videos)
