@@ -1,3 +1,5 @@
+[back](..)
+
 # Side by Side Image Compare
 
 ## Full image
