@@ -1,4 +1,4 @@
-.ve-header "Essay Title" wc:SL_Kandy_asv2020-01_img34_Sacred_Tooth_Temple.jpg
+.ve-header "Essay Title" wc:SL_Kandy_asv2020-01_img34_Sacred_Tooth_Temple.jpg sticky
 
 ## Image - Landscape Orientation
     
