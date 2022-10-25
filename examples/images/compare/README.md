@@ -1,3 +1,5 @@
+[back](..)
+
 # Image Compare Options
 
 - [Basic `side-by-side` viewers](side-by-side)
