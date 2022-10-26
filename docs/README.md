@@ -153,6 +153,14 @@ The `.ve-style` tag is used to replace the default stylesheet with a custom one 
 .ve-style href=https://www.example.com/my/custom/stylesheet.css
 ```
 
+# Tools
+
+## Editor
+
+## Media Tool
+
+## Annotator
+
 # Wikidata {#wikidata .no-offset}
 
 # How To's {#how-tos}
