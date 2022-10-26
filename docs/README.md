@@ -3,7 +3,7 @@
   pre {padding: 12px;}
   li {margin: 6px;}
   #quick-links li {margin: 0;}
-  #quick-links li > p {margin-bottom: 3px;}
+  #quick-links li > p {margin: 3px;}
   .section1 {padding: 0 18px;}
 </style>
   
