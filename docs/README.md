@@ -9,7 +9,7 @@
 
 .ve-header Documentation background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png url=/ sticky
    
-# Visual Essays Help
+# Visual Essays Help {#top}
 
 ### Quick links {#quick-links}
 
@@ -64,7 +64,7 @@ As with the images displayed by the `.ve-image` tag, the banner image used by th
     - [About](/about)
 ```
 
-## .ve-image {#ve-image}
+## [<](#top) .ve-image {#ve-image}
 
 The `.ve-image` tag is the most commonly used essay tag.  The tag creates an IIIF image viewer that is able to display one or more images.
 
