@@ -167,16 +167,6 @@ The `.ve-style` tag is used to replace the default stylesheet with a custom one 
 .ve-style href=https://www.example.com/my/custom/stylesheet.css
 ```
 
-# [⇧](#top) Tools
-
-## [⇧](#top) Editor
-
-## [⇧](#top) Media Tool
-
-## [⇧](#top) Annotator
-
-# Wikidata {#wikidatat}
-
 # [⇧](#top) How To's {#how-tos}
 
 ## [⇧](#top) Marking Text {#marking-text}
@@ -192,3 +182,26 @@ In the example above the text `dolor` is marked and associated with the attribut
 ## [⇧](#top) Zoom To {#zoom-to}
 
 TODO
+
+
+# [⇧](#top) Tools {#tools}
+
+## [⇧](#top) Editor {#editor}
+
+## [⇧](#top) Media Tool {#media-tool}
+
+## [⇧](#top) Annotator {#annotator}
+
+
+# [⇧](#top) Useful Background {#background}
+
+## [⇧](#top) Github {#github}
+
+## [⇧](#top) IIIF {#iiif}
+
+## [⇧](#top) Wikidata {#wikidata}
+
+
+# [⇧](#top) Resources {#resources}
+
+## [⇧](#top) Finding IIIF Images {#finding-iiif}
