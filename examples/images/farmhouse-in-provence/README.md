@@ -1,5 +1,7 @@
 .ve-header "Farmhouse in Provence" wc:Zelfportret_met_strohoed_-_s0164V1962_-_Van_Gogh_Museum.jpg options=pct:3,21,80,20 subtitle="Vincent Van Gogh" position=center sticky
 
+.ve-add-hypothesis
+
 # Farmhouse in Provence
 
 Farmhouse in Provence, also known as Entrance Gate to a Farm with Haystacks, is an oil-on-canvas painting produced in 1888 by Dutch painter Vincent van Gogh in Arles, Provence, at the height of his career. Partially due to having been inspired by painter Adolphe Monticelli, Van Gogh sought the Provence region of France to further expand his painting skill and experience. Van Gogh used several pairs of complementary colors in the Farmhouse in Provence, the color contrast bringing an intensity to his work. The painting is owned by the National Gallery of Art in Washington, D.C.
@@ -29,6 +31,8 @@ Van Gogh mentioned the liveliness and interplay of "a wedding of two complementa
 While in Nuenen Van Gogh became familiar with Michel Eugène Chevreul's laws in weaving to maximize the intensity of colors through their contrast to adjacent colors.[^7]
 
 In Paris he was exposed through his brother Theo to Adolphe Monticelli's still life work with flowers, which he admired. First, he saw Monticelli's use of color as an expansion of Delacroix's theories of color and contrast. Secondly he admired the effect Monticelli created by ==heavy application of paint=={4830,9487,514,388}. It was partially Monticelli, from Marseilles, who inspired Van Gogh's southerly move to Provence. He felt such kinship for the man, and desire to emulate his style, that he wrote in a letter to his sister Wil that he felt as if he were "Monticelli's son or his brother."[^8]
+
+# References
 
 [^1]: Morton, M; Schmunk, P (2000). [The Arts Entwined: Music and Painting in the Nineteenth Century](). New York: Garland Publishing. pp. 177–178. [ISBN 0-8153-3156-8]().
 [^2]: Arfin, F (2009). [Adventure Guide to Provence & the Cote D'azur](). Edison, NJ: Hunter Publishing.
