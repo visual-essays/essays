@@ -65,7 +65,7 @@ As with the images displayed by the `.ve-image` tag, the banner image used by th
     - [About](/about)
 ```
 
-## .ve-image {#ve-image .no-offset}
+## .ve-image {#ve-image}
 
 The `.ve-image` tag is the most commonly used essay tag.  The tag creates an IIIF image viewer that is able to display one or more images.
 
