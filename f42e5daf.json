@@ -15,9 +15,30 @@
         "conformsTo": "http://www.w3.org/TR/media-frags/",
         "value": "xywh=pixel:6302.74267578125,3136.9189453125,7257.34814453125,3410.2685546875"
       },
+      "id": "/visual-essays/essays/f42e5daf"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "/annotation/visual-essays/essaysf42e5daf/e5e8d005"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The painting is noted for Van Gogh's use of contrasting colors, such as the pink clouds against the turquoise sky.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/066005116e1a7c93758cf2f7a69ee1d3.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:6804.197265625,190.2803192138672,3925.3447265625,2369.838333129883"
+      },
       "id": "f42e5daf"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "e5e8d005"
+    "id": "1ce7f1ed"
   }
 ]
