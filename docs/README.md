@@ -70,10 +70,7 @@ Boolean attributes may be specified with the attribute name only or as a key-val
 - `compare` ("_true_" or "_false_"):  The _compare_ attribute is used in multi-image mode to compare 2 or 3 images.  When not combined with either the _curtain_ or _sync_ attribute the default compare mode is invoked.  In the default mode comparisons are limited to 2 images.   2 or 3 images may be compared when _curtain_ or _sync_ attributes are included.  In the default mode the 2 images are stacked (one is overlaid on the other) and a slider is used to show or hide portions of the bottom image.  The compared images cannot be zoomed or panned but one or both may  be cropped to align the images for comparision.
 - `curtain` ("_true_" or "_false_"):  The _curtain_ attribute is used in combination with the _compare_ attribute.  When comparing images in _curtain_ mode up to 3 images may be compared and deep zoom and panning is enabled.  Image cropping is currently not supported in _curtain_ mode.
 - `sync` ("_true_" or "_false_"):  The _sync_ attribute is used in combination with the _compare_ attribute.  When comparing images in _sync_ mode up to 3 images may be compared and deep zoom and panning is enabled.  Image cropping is currently not supported in _sync_ mode. In _sync_ mode the images to compare are displayed side-by-side with zoom and panning actions applied to each simultaneously.
-
-#### Key-Value Attributes
-
-- **src**:  The URL to the IIIF manifest for the image to display in the viewer.  This attribute can be omitted when multiple using the viewer in multi-image mode.  
+- `src` (_IIIF image manifest URL_) :  The URL to the IIIF manifest for the image to display in the viewer.  This attribute is omitted when multiple using the viewer in multi-image mode.  This attribute may also be omitted in single image mode when QIDs are in scope.  When a _src_ attribute is not specified the most relevant (closest) QID to the tag is used to generate an IIIF manifest URL.  More information on QID use can be found in the [Wikidata](#wikidata) section.
 - **seq**:  A number defining the image to use in a multi-image manifest.  If not specified the dafault value is `1`.
 - **alt**:  The text to use in the `alt` tag used by screen readers.  If not provided an `alt` tag is automatically generated from the manifest label property.
 - **options**:  The `options` attribute is used to define the [IIIF image request parameters](https://iiif.io/api/image/2.1/#image-request-parameters) for an image.  This attribute is most commonly used to define a coordinates for displaying an image region.    
@@ -151,6 +148,9 @@ The `.ve-style` tag is used to replace the default stylesheet with a custom one 
 ```Markdown
 .ve-style href=https://www.example.com/my/custom/stylesheet.css
 ```
+
+# Wikidata {#wikidata .no-offset}
+
 # How To's
 
 ## Marking Text {#marking-text .no-offset}
