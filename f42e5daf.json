@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Painting is also know as \"Entrance Gate to a Farm with Haystacks\"",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/066005116e1a7c93758cf2f7a69ee1d3.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:6302.74267578125,3136.9189453125,7257.34814453125,3410.2685546875"
+      },
+      "id": "f42e5daf"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e5e8d005"
+  }
+]
