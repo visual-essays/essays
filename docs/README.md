@@ -4,7 +4,7 @@
   li {margin: 6px;}
   #quick-links li {margin: 0;}
   #quick-links li > p {margin-bottom: 3px;}
-  .section1 {margin: 0 12px;}
+  .section1 {padding: 0 18px;}
 </style>
   
 .ve-meta title="Juncture Documentation"
