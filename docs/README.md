@@ -61,7 +61,7 @@ The `.ve-image` tag is the most commonly used essay tag.  The tag creates an III
 
 ## .ve-image {#ve-image .no-offset}
 
-The `.ve-image` tag is the most commonly used essay tag.  The tag creates an IIIF image viewer that is able to display one or more images.  Multiple images (ip to 3) may also be displayed using various `compare` modes.
+The `.ve-image` tag is the most commonly used essay tag.  The tag creates an IIIF image viewer that is able to display one or more images.  Multiple images (up to 3) may also be displayed using various `compare` modes.
 
 ### .ve-image Attributes
 
