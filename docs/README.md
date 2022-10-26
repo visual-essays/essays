@@ -6,7 +6,7 @@
   
 .ve-meta title="Juncture Documentation"
 
-.ve-header "Juncture Documentation" background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png sticky
+.ve-header "Juncture Documentation" background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png url=/ sticky
    
 # Visual Essays Help
 
@@ -64,10 +64,6 @@ As with the images displayed by the `.ve-image` tag, the banner image used by th
 ## .ve-image {#ve-image .no-offset}
 
 The `.ve-image` tag is the most commonly used essay tag.  The tag creates an IIIF image viewer that is able to display one or more images.
-
-## .ve-image {#ve-image .no-offset}
-
-The `.ve-image` tag is the most commonly used essay tag.  The tag creates an IIIF image viewer that is able to display one or more images.  Multiple images (up to 3) may also be displayed using various `compare` modes.
 
 ### .ve-image Attributes
 
