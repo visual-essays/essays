@@ -31,9 +31,17 @@
     - [Media tool](#media-tool)
     - [Annotator](#annotator)
 
+- **[Useful Background](#background)**
+    - [Github](#github)
+    - [IIIF](#iiif)
+    - [Wikidata](#wikidata)
+
 - **[Hosting options](#hosting)**
     - [Github Pages](#github-pages)
     - [Custom Domain](#custom-domain)
+
+- **[Resources](#resources)**
+    - [Finding IIIF Images](#finding-iiif)
 
 # Viewer Tags {#viewer-tags}
 
