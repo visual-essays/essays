@@ -3,6 +3,7 @@
   pre {padding: 12px;}
   li {margin: 6px;}
   #quick-links li {margin: 0;}
+  #quick-links li > p {margin-bottom: 3px;}
 </style>
   
 .ve-meta title="Juncture Documentation"
