@@ -56,23 +56,29 @@ As with the images displayed by the `.ve-image` tag, the banner image used by th
 
 ## .ve-image {#ve-image .no-offset}
 
-The `.ve-image` tag is the most commonly used essay tag.  The tag creates an IIIF image viewer that is able to display one or more images.
+The `.ve-image` tag is the most commonly used essay tag.  The tag creates an IIIF image viewer that is able to display one or more images.  Multiple images (ip to 3) may also be displayed using various `compare` modes.
 
 ### .ve-image Attributes
 
+#### Boolean Attributes
+
+- **compare**:  The `compare` attribute is used in multi-image mode to compare 2 or 3 images.  The compare attribute accepts two possible values, `curtain` and `sync`, defining the comparison mode used.  In `curtain` mode the images are stacked on top of each other and cursor movements over the image will reveal or hide relevant sections of each image in the stack.  In `sync` mode the images to compare are displayed side-by-side with zoom and panning actions applied to each simultaneously.
+- 
+#### Key-Value Attributes
 - **src**:  The URL to the IIIF manifest for the image to display in the viewer.  This attribute can be omitted when multiple using the viewer in multi-image mode.  
 - **seq**:  A number defining the image to use in a multi-image manifest.  If not specified the dafault value is `1`.
-- **id**:  An optional.
+- **alt**:  The text to use in the `alt` tag used by screen readers.  If not provided an `alt` tag is automatically generated from the manifest label property.
 - **options**:  The `options` attribute is used to define the [IIIF image request parameters](https://iiif.io/api/image/2.1/#image-request-parameters) for an image.  This attribute is most commonly used to define a coordinates for displaying an image region.    
 - **fit**:  The `fit` attribute controls the display of an image in the viewer viewport.  In the default mode (`contain`) the entire image is show with letter-boxing applied to the top and bottom or left and right when the image aspect ratio differs from the viewers.  When the value `cover` is used the entire viewport is filled and the image display is cropped as needed to fit.
 - **compare**:  The `compare` attribute is used in multi-image mode to compare 2 or 3 images.  The compare attribute accepts two possible values, `curtain` and `sync`, defining the comparison mode used.  In `curtain` mode the images are stacked on top of each other and cursor movements over the image will reveal or hide relevant sections of each image in the stack.  In `sync` mode the images to compare are displayed side-by-side with zoom and panning actions applied to each simultaneously.
-- **alt**:  The text to use in the `alt` tag used by screen readers.  If not provided an `alt` tag is automatically generated from the manifest label property.
 
 **Positional attributes**:  `src options seq fit`
 
+**Boolean attributes**: `compare curtain sync `
+
 ### Multiple images mode
 
-To use more than one image with a `.ve-image` viewer the Markdown nested list notation is used.  A Markdown list is defined by prefixing the `    - ` text to each list element on separate lines.   Each list element can include positional and/or key-value attributes for the associated image.
+To use more than one image with a `.ve-image` viewer the Markdown nested list notation is used.  A Markdown list is defined by prefixing the `    - `  (4 spaces followed by the dash character) text to each list element on separate lines.   Each list element can include positional and/or key-value attributes for the associated image.
 
 ### Manifest URLs
 
