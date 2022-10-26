@@ -13,14 +13,14 @@
 
 ### Quick links {#quick-links}
 
-- **Viewer Tags**
+- **[Viewer Tags](#viewer-tags)**
     - [.ve-header](#ve-header)
     - [.ve-image](#ve-image)
     - [.ve-image-grid](#ve-image-grid)
     - [.ve-meta](#ve-meta)
     - [.ve-style](#ve-style)
 
-- **Howto's**
+- **[Howto's](#how-tos)**
     - [Marking text for interactions](#marking-text)
     - [Creating a **zoom to** interaction](#zoom-to)
 
@@ -30,7 +30,8 @@
     - [Annotator](#annotator)
 
 
-# Viewer Tags
+# Viewer Tags {#viewer-tags}
+
 Custom tags are added to essay text to define viewers that are inserted into the generated page.  Each viewer tag includes a **.ve-** prefix and must appear at the beginning of a new line.  Viewer tags accept one or more positional and/or key-value arguments.  A positional argument is simply a text string that follows the tag.  Some viewers can accept multiple positional arguments, in which case the ordering is important.   Key-value arguments take the form of `<KEY>=<VALUE>`, explicitly defining the attribute name and value.  Key-value arguments must follow any positional arguments used.  For both positional and key-value arguments a value with a space must be enclosed in quotes.  
 
 ## .ve-header {#ve-header .no-offset}
@@ -154,7 +155,7 @@ The `.ve-style` tag is used to replace the default stylesheet with a custom one 
 
 # Wikidata {#wikidata .no-offset}
 
-# How To's
+# How To's {#how-tos}
 
 ## Marking Text {#marking-text .no-offset}
 
