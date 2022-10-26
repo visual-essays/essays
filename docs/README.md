@@ -35,6 +35,7 @@
 - **[Useful Background](#background)**
     - [Github](#github)
     - [IIIF](#iiif)
+    - [Self-hosted Media Collections](#self-hosted-media)
     - [Wikidata](#wikidata)
 
 - **[Hosting Options](#hosting)**
@@ -198,6 +199,8 @@ TODO
 ## [⇧](#top) Github {#github}
 
 ## [⇧](#top) IIIF {#iiif}
+
+## [⇧](#top) Self-Hosted Media Collections {#self-hosted-media}
 
 ## [⇧](#top) Wikidata {#wikidata}
 
