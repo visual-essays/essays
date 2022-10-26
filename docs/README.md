@@ -67,6 +67,8 @@ The `.ve-image` tag is the most commonly used essay tag.  The tag creates an III
 
 #### Boolean Attributes
 
+Boolean attributes may be specified with the attribute name only or as a key-value attribute with a _true_ or _false_ value.  When the attribute is present without the value the attribute value resolves to _true_, otherwise it is assumed to be _false_.
+
 - `compare`:  The _compare_ attribute is used in multi-image mode to compare 2 or 3 images.  When not combined with either the _curtain_ or _sync_ attribute the default compare mode is invoked.  In the default mode comparisons are limited to 2 images.   2 or 3 images may be compared when _curtain_ or _sync_ attributes are included.  In the default mode the 2 images are stacked (one is overlaid on the other) and a slider is used to show or hide portions of the bottom image.  The compared images cannot be zoomed or panned but one or both may  be cropped to align the images for comparision.
 - `curtain`:  The _curtain_ attribute is used in combination with the _compare_ attribute.  When comparing images in _curtain_ mode up to 3 images may be compared and deep zoom and panning is enabled.  Image cropping is currently not supported in _curtain_ mode.
 - `sync`:  The _sync_ attribute is used in combination with the _compare_ attribute.  When comparing images in _sync_ mode up to 3 images may be compared and deep zoom and panning is enabled.  Image cropping is currently not supported in _sync_ mode. In _sync_ mode the images to compare are displayed side-by-side with zoom and panning actions applied to each simultaneously.
