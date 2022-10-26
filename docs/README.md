@@ -2,9 +2,9 @@
   .codehilite { margin: 12px 46px; .background-color: unset; }
   pre {padding: 12px;}
   li {margin: 6px;}
-  #quick-links > ul {list-style: none;}
+  #quick-links > ul {list-style: none; padding-left: 1rem;}
   #quick-links li {margin: 0;}
-  #quick-links li > p {margin: 3px;}
+  #quick-links li > p {margin: 6px 0 3px 0;}
   .section1 {padding: 0 18px;}
 </style>
   
