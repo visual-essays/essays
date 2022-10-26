@@ -68,7 +68,7 @@ The `.ve-image` tag is the most commonly used essay tag.  The tag creates an III
 #### Boolean Attributes
 
 - **compare**:  The `compare` attribute is used in multi-image mode to compare 2 or 3 images.  The compare attribute accepts two possible values, `curtain` and `sync`, defining the comparison mode used.  In `curtain` mode the images are stacked on top of each other and cursor movements over the image will reveal or hide relevant sections of each image in the stack.  In `sync` mode the images to compare are displayed side-by-side with zoom and panning actions applied to each simultaneously.
-- 
+
 #### Key-Value Attributes
 - **src**:  The URL to the IIIF manifest for the image to display in the viewer.  This attribute can be omitted when multiple using the viewer in multi-image mode.  
 - **seq**:  A number defining the image to use in a multi-image manifest.  If not specified the dafault value is `1`.
