@@ -2,6 +2,7 @@
   .codehilite { margin: 12px 46px; .background-color: unset; }
   pre {padding: 12px;}
   li {margin: 6px;}
+  #quick-links > ul {list-style: none;}
   #quick-links li {margin: 0;}
   #quick-links li > p {margin: 3px;}
   .section1 {padding: 0 18px;}
