@@ -2,30 +2,33 @@
   .codehilite { margin: 12px 46px; .background-color: unset; }
   pre {padding: 12px;}
   li {margin: 6px;}
+  #quick-links li {margin: 0;}
 </style>
   
 .ve-meta title="Juncture Documentation"
 
-.ve-header "Juncture Documentation" background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png url=/ sticky
+.ve-header Documentation background=#5B152E logo=https://raw.githubusercontent.com/visual-essays/media/main/images/Juncture_Logo.png url=/ sticky
    
 # Visual Essays Help
 
-### Quick links
+### Quick links {#quick-links}
 
-**Viewer Tags**
+- **Viewer Tags**
+    - [.ve-header](#ve-header)
+    - [.ve-image](#ve-image)
+    - [.ve-image-grid](#ve-image-grid)
+    - [.ve-meta](#ve-meta)
+    - [.ve-style](#ve-style)
 
-  - [.ve-header](#ve-header)
-  - [.ve-image](#ve-image)
-  - [.ve-image-grid](#ve-image-grid)
-  - [.ve-meta](#ve-meta)
-  - [.ve-style](#ve-style)
+- **Howto's**
+    - [Marking text for interactions](#marking-text)
+    - [Creating a **zoom to** interaction](#zoom-to)
 
-**Howto's**
+- **[Tools](#tools)**
+    - [Editor](#editor)
+    - [Media tool](#media-tool)
+    - [Annotator](#annotator)
 
-- [Marking text for interactions](#marking-text)
-- [Creating a **zoom to** interaction](#zoom-to)
-
-[Tools](tools)
 
 # Viewer Tags
 Custom tags are added to essay text to define viewers that are inserted into the generated page.  Each viewer tag includes a **.ve-** prefix and must appear at the beginning of a new line.  Viewer tags accept one or more positional and/or key-value arguments.  A positional argument is simply a text string that follows the tag.  Some viewers can accept multiple positional arguments, in which case the ordering is important.   Key-value arguments take the form of `<KEY>=<VALUE>`, explicitly defining the attribute name and value.  Key-value arguments must follow any positional arguments used.  For both positional and key-value arguments a value with a space must be enclosed in quotes.  
