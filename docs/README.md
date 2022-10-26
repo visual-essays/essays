@@ -29,6 +29,10 @@
     - [Media tool](#media-tool)
     - [Annotator](#annotator)
 
+- **[Hosting options](#hosting)**
+    - [Github Pages](#github-pages)
+    - [Custom Domain](#custom-domain)
+
 # Viewer Tags {#viewer-tags}
 
 Custom tags are added to essay text to define viewers that are inserted into the generated page.  Each viewer tag includes a **.ve-** prefix and must appear at the beginning of a new line.  Viewer tags accept one or more positional and/or key-value arguments.  A positional argument is simply a text string that follows the tag.  Some viewers can accept multiple positional arguments, in which case the ordering is important.   Key-value arguments take the form of `<KEY>=<VALUE>`, explicitly defining the attribute name and value.  Key-value arguments must follow any positional arguments used.  For both positional and key-value arguments a value with a space must be enclosed in quotes.  
