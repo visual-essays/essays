@@ -23,7 +23,7 @@
     - [.ve-meta](#ve-meta)
     - [.ve-style](#ve-style)
 
-- **[Howto's](#how-tos)**
+- **[How To's](#how-tos)**
     - [Marking text for interactions](#marking-text)
     - [Creating a **zoom to** interaction](#zoom-to)
 
@@ -37,7 +37,7 @@
     - [IIIF](#iiif)
     - [Wikidata](#wikidata)
 
-- **[Hosting options](#hosting)**
+- **[Hosting Options](#hosting)**
     - [Github Pages](#github-pages)
     - [Custom Domain](#custom-domain)
 
@@ -200,6 +200,13 @@ TODO
 ## [⇧](#top) IIIF {#iiif}
 
 ## [⇧](#top) Wikidata {#wikidata}
+
+
+# [⇧](#top) Hosting Options {#hosting}
+
+## [⇧](#top) Github Pages {#github-pages}
+
+## [⇧](#top) Custom Domain {#custom-domain}
 
 
 # [⇧](#top) Resources {#resources}
