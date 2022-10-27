@@ -16,6 +16,8 @@
 
 ### Quick links {#quick-links}
 
+- **[Quick Start](#quick-start)**
+
 - **[Viewer Tags](#viewer-tags)**
     - [.ve-header](#ve-header)
     - [.ve-image](#ve-image)
