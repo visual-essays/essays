@@ -35,6 +35,7 @@
     - [Annotator](#annotator)
 
 - **[Useful Background](#background)**
+    - [Juncture Architecture](#juncture-architecture)
     - [Github](#github)
     - [IIIF](#iiif)
     - [Self-hosted Media Collections](#self-hosted-media)
@@ -71,7 +72,7 @@ Logging into Github from Juncture authorizes Juncture to update your Github repo
 
 Select the `Editor` option from the Juncture Editor.
 
-# Viewer Tags {#viewer-tags}
+# [⇧](#top) Viewer Tags {#viewer-tags}
 
 Custom tags are added to essay text to define viewers that are inserted into the generated page.  Each viewer tag includes a **.ve-** prefix and must appear at the beginning of a new line.  Viewer tags accept one or more positional and/or key-value attributes.  
 
@@ -223,6 +224,8 @@ TODO
 
 
 # [⇧](#top) Useful Background {#background}
+
+## [⇧](#top) Juncture Architecture {#juncture-architecture}
 
 ## [⇧](#top) Github {#github}
 
