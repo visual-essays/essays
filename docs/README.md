@@ -207,7 +207,7 @@ Essay text is "marked" by surrounding the applicable text with double equal sign
 Lorem ipsum ==dolor=={100,100,400,400} sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
 ```
 
-In the example above the text `dolor` is marked and associated with the attribute `100,100,400,400`.  This has the effect of highlighting the `dolor` text in the rendered essay and creating a `zoom to` interaction when the text is selected (clicked or tapped).  The `zoom to` interaction causes the closest image zoom to the region specified by the coordinates in the  attribute.  More information about the `zoom to` interaction, including how to define the coordinates, is provided below.
+In the example above the text `dolor` is marked and associated with the attribute `100,100,400,400`.  This has the effect of highlighting the `dolor` text in the rendered essay and creating a `zoom to` interaction when the text is selected (clicked or tapped).  The `zoom to` interaction causes the closest image to zoom to the region specified by the coordinates in the  attribute.  More information about the `zoom to` interaction, including how to define the coordinates, is provided below.
 
 ## [⇧](#top) Zoom To {#zoom-to}
 
@@ -217,6 +217,20 @@ TODO
 # [⇧](#top) Tools {#tools}
 
 ## [⇧](#top) Editor {#editor}
+
+Juncture provides a web-based editor for authoring visual essay texts.  The editor includes a preview function enabling quick and easy validation of inputs and changes.  The Juncture editor interacts with a users Github account to manage the visual essay files.  The Juncture editor also provides basic file management capabilities for creating and deleting Github directories and files.  With the features provided by the editor a user should rarely, if ever, need to interact with Github directly.
+
+The editor has 2 main components, the Github content navigator and the visual essay text editor.
+
+### Github Content Navigator
+
+The Github Content Navigator is found at the top of the editor page, just below the page header.  The Content Navigator has two sections, the selected content path and an area for displaying files and folders for the current content path.
+
+The content path identifies the Github account, repository, branch and content path to the file loaded into the editor.  When multiple options exist for the account, repository and branch a drop-down menu is available for selecting the desired option.  The dropdown menu is activated by clicking on the current item value.  The repository selector also provides an option for creating a new repository if desired.  Following the Github account, repository, and branch selectors is the path to the selected file.  When the editor initially starts the path is empty.  
+
+A set of folders and files will be listed below the 
+
+### Github Text Editor
 
 ## [⇧](#top) Media Tool {#media-tool}
 
