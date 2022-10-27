@@ -47,7 +47,11 @@
 
 # Viewer Tags {#viewer-tags}
 
-Custom tags are added to essay text to define viewers that are inserted into the generated page.  Each viewer tag includes a **.ve-** prefix and must appear at the beginning of a new line.  Viewer tags accept one or more positional and/or key-value arguments.  A positional argument is simply a text string that follows the tag.  Some viewers can accept multiple positional arguments, in which case the ordering is important.   Key-value arguments take the form of `<KEY>=<VALUE>`, explicitly defining the attribute name and value.  Key-value arguments must follow any positional arguments used.  For both positional and key-value arguments a value with a space must be enclosed in quotes.  
+Custom tags are added to essay text to define viewers that are inserted into the generated page.  Each viewer tag includes a **.ve-** prefix and must appear at the beginning of a new line.  Viewer tags accept one or more positional and/or key-value attributes.  
+
+- A `positional attribute` is a text string that follows the tag.  Some viewers can accept multiple positional attributes, in which case the ordering is important.
+- `Key-value attributes` take the form of `<KEY>`=`<VALUE>`, explicitly defining the attribute name and value.  Key-value attributes must follow any positional arguments used.  For both positional and key-value attributes a value with a space must be enclosed in quotes.  
+- Key-value attributes that use a value of "_true_" or "_false_" are also known as `boolean attributes`.  Boolean attributes may be specified with the attribute name only or as a key-value attribute with a _true_ or _false_ value.  When the attribute is present without the value the attribute value resolves to _true_, otherwise it is assumed to be _false_.
 
 ## [⇧](#top) .ve-header {#ve-header}
 
@@ -85,8 +89,6 @@ As with the images displayed by the `.ve-image` tag, the banner image used by th
 The `.ve-image` tag is the most commonly used essay tag.  The tag creates an IIIF image viewer that is able to display one or more images.
 
 ### .ve-image Attributes
-
-Boolean attributes may be specified with the attribute name only or as a key-value attribute with a _true_ or _false_ value.  When the attribute is present without the value the attribute value resolves to _true_, otherwise it is assumed to be _false_.
 
 - `alt` (_text string_):  The text to use in the _alt_ tag used by screen readers.  If not provided an _alt_ tag is automatically generated from the manifest label property.\
 - `compare` ("_true_" or "_false_"):  The _compare_ attribute is used in multi-image mode to compare 2 or 3 images.  When not combined with either the _curtain_ or _sync_ attribute the default compare mode is invoked.  In the default mode comparisons are limited to 2 images.   2 or 3 images may be compared when _curtain_ or _sync_ attributes are included.  In the default mode the 2 images are stacked (one is overlaid on the other) and a slider is used to show or hide portions of the bottom image.  The compared images cannot be zoomed or panned but one or both may  be cropped to align the images for comparison.
