@@ -16,7 +16,7 @@
 
 ### Quick links {#quick-links}
 
-- **[Quick Start](#quick-start)**
+- **[Juncture Quick Start](#quick-start)**
 
 - **[Viewer Tags](#viewer-tags)**
     - [.ve-header](#ve-header)
@@ -46,6 +46,8 @@
 
 - **[Resources](#resources)**
     - [Finding IIIF Images](#finding-iiif)
+
+# Juncture Quick Start {#quick-start}
 
 # Viewer Tags {#viewer-tags}
 
