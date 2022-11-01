@@ -6,7 +6,7 @@
 
 Farmhouse in Provence, also known as Entrance Gate to a Farm with Haystacks, is an oil-on-canvas painting produced in 1888 by Dutch painter Vincent van Gogh in Arles, Provence, at the height of his career. Partially due to having been inspired by painter Adolphe Monticelli, Van Gogh sought the Provence region of France to further expand his painting skill and experience. Van Gogh used several pairs of complementary colors in the Farmhouse in Provence, the color contrast bringing an intensity to his work. The painting is owned by the National Gallery of Art in Washington, D.C.
 
-.ve-image wc:Farmhouse_in_Provence,_1888,_Vincent_van_Gogh,_NGA.jpg width=90%
+.ve-image wc:Farmhouse_in_Provence,_1888,_Vincent_van_Gogh,_NGA.jpg full width=90%
 
 ## Arles
 
@@ -22,7 +22,7 @@ In a letter to his brother, Theo, he wrote, "Painting as it is now, promises to 
 
 Van Gogh used three pairs of complementary, or contrasting, colors which when sat together intensified the brilliance and intensity of one another's colors. One pair is orange and blue. Another would be the red and green of the plants. Last, pink clouds against the turquoise sky.[^4]
 
-.ve-image wc:Farmhouse_in_Provence,_1888,_Vincent_van_Gogh,_NGA.jpg right
+.ve-image wc:Farmhouse_in_Provence,_1888,_Vincent_van_Gogh,_NGA.jpg right 
 
 Van Gogh used complementary, contrasting colors to bring an intensity to his work, which evolved over the periods of his work. Two complementary colors of the same degree of vividness and brightness placed next to one another produce an intense reaction, called the "law of simultaneous contrast."[^5]
 
