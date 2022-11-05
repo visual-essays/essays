@@ -15,6 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### {.right .sticky}
 
 .ve-entities
+.ve-image wc:Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg
 
 ###
 
@@ -26,9 +27,11 @@ Can you just start telling us about the first time you met Doctor King, and what
 00:00:10:00	JOAN BAEZ:
 You know, the first time I saw Doctor King, I honestly don't remember whether I actually met him. He came to a high school gathering of kids from all over the country and we were all discussing world affairs. It was all about nonviolence. Every year they had a speaker, and that year was Doctor King. So, I just stood there and wept for the entire speech, because this man was doing what I had read about, you know, and studied about, and then all of the sudden there’s this person talking about the bus boycott, and people, you know, walking instead of riding. And so, it was everything I'd read about, was actually taking place. And I'm so overwhelmed still with that moment. I honestly don't remember whether I met him there. I was a sixteen-year-old kid along with all the rest of them. And I don't remember officially when I met him. I know it was at one of the conferences. We finally had a face to face. He cut out the time to do that. And we started doing a lot of joking, so it was a healthy way to begin.
 Q8027 Q9826 Q76611 Q861911
+{data-start=10}
 
 00:01:17:00	TREY ELLIS:
 What kind of jokes? Were you intimidated, and then you met him as a jokester? Did he disarm you in that kind of way?
+{data-start=77}
 
 00:01:23:00	JOAN BAEZ:
 Um… No. That very first talk, I think we were both sort of a little bit intimidated maybe. Later on, I mean, his jokes, and Andy knows it too, they all know it, they would tell dirty jokes by the hour, by the hour. I went to pick up- I got- was allowed to go in the car full of lieutenants, there was Jesse, and Bevel, and Andy. And we went to pick up Doctor King. I think it was to bring him in to Grenada. And they had said, yeah, I could come along. I thought- ‘cause- huge demonstration planned for the next day. So, I went, and I thought, "Oh man, I’m really going to get the inside story on how they organize one of these things." They picked him up at the airport, and they told “n-” jokes from the airport to their favorite restaurant, where he ate everything you would think he would order, fried chicken, okra, potatoes, apple pie at the end. Got back in the car and continued until we got back to the conference. And I asked Andy later, I said, "Andy, I thought I was going to hear how your guys organize a march." He said, "You did."
@@ -37,6 +40,7 @@ Um… No. That very first talk, I think we were both sort of a little bit intimi
 
 00:02:35:00	TREY ELLIS:
 So, let's talk about Grenada. Is that the first- and your experiences there, and the resistance of segregation, once legally segregation was, and the resistance to legal segregation, and how difficult it was going to be.
+{data-start=155}
 
 00:02:50:00	JOAN BAEZ:
 My first experience in the south was nineteen sixty-one when I went there and gave concerts. And the contact actually said, and of course, I never looked at it, "Whites only." I was mortified. I went back the next year, sixty-two with that changed. Of course, no blacks came. They didn't know who I was. So, I went back the third year, and I sang in black campuses. And I was in fact singing at a- I was furious ‘cause I wanted to be in town in the middle of all the arrests. It was in Birmingham- which school is it? Miles? It was Miles and gave a concert there. So, I had already launched that feeling you get in the south when you're going to say something real.
