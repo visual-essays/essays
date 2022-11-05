@@ -15,7 +15,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### {.right .sticky}
 
 .ve-entities
-.ve-image wc:Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg
 
 ###
 
