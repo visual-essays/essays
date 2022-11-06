@@ -1,4 +1,4 @@
-.ve-header "King in the Wilderness - Joan Baez interview"
+.ve-header "King in the Wilderness - Joan Baez interview" sticky
 
 # King in the Wilderness - Joan Baez interview
 
