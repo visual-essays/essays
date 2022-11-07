@@ -22,20 +22,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 .ve-video https://www.youtube.com/watch?v=W4LT8-dEhJg sticky
 
-00:00:00:00	TREY ELLIS:
+==**00:00:00:00	TREY ELLIS:**=={0}
 Can you just start telling us about the first time you met Doctor King, and what that was like, and how you felt?
 {data-start=0}
 
-00:00:10:00	JOAN BAEZ:
+==**00:00:10:00	JOAN BAEZ:**=={10}
 You know, the first time I saw Doctor King, I honestly don't remember whether I actually met him. He came to a high school gathering of kids from all over the country and we were all discussing world affairs. It was all about nonviolence. Every year they had a speaker, and that year was Doctor King. So, I just stood there and wept for the entire speech, because this man was doing what I had read about, you know, and studied about, and then all of the sudden there’s this person talking about the bus boycott, and people, you know, walking instead of riding. And so, it was everything I'd read about, was actually taking place. And I'm so overwhelmed still with that moment. I honestly don't remember whether I met him there. I was a sixteen-year-old kid along with all the rest of them. And I don't remember officially when I met him. I know it was at one of the conferences. We finally had a face to face. He cut out the time to do that. And we started doing a lot of joking, so it was a healthy way to begin.
 Q8027 Q9826 Q76611 Q861911
 {data-start=10}
 
-00:01:17:00	TREY ELLIS:
+==**00:01:17:00	TREY ELLIS:**=={77}
 What kind of jokes? Were you intimidated, and then you met him as a jokester? Did he disarm you in that kind of way?
 {data-start=77}
 
-00:01:23:00	JOAN BAEZ:
+==**00:01:23:00	JOAN BAEZ:**={83}
 Um… No. That very first talk, I think we were both sort of a little bit intimidated maybe. Later on, I mean, his jokes, and Andy knows it too, they all know it, they would tell dirty jokes by the hour, by the hour. I went to pick up- I got- was allowed to go in the car full of lieutenants, there was Jesse, and Bevel, and Andy. And we went to pick up Doctor King. I think it was to bring him in to Grenada. And they had said, yeah, I could come along. I thought- ‘cause- huge demonstration planned for the next day. So, I went, and I thought, "Oh man, I’m really going to get the inside story on how they organize one of these things." They picked him up at the airport, and they told “n-” jokes from the airport to their favorite restaurant, where he ate everything you would think he would order, fried chicken, okra, potatoes, apple pie at the end. Got back in the car and continued until we got back to the conference. And I asked Andy later, I said, "Andy, I thought I was going to hear how your guys organize a march." He said, "You did."
 Q8027 Q8027 Q35874 Q959635 Q310586 Q1920456 Q1248784 Q11707 Q1420 Q15631336
 {data-start=83}
