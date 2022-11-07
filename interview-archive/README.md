@@ -1,6 +1,6 @@
 # README.md
 
-.ve-image https://iiif.archivelab.org/iiif/jstor-25583390/manifest.json 4:1611,1030,1667,2157
+.ve-image https://iiif.archivelab.org/iiif/jstor-25583390/manifest.json 1611,1030,1667,2157 seq=4
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi enim nunc faucibus a pellentesque sit amet porttitor eget. Urna porttitor rhoncus dolor purus non. Eget aliquet nibh praesent tristique. Aliquam etiam erat velit scelerisque. Quam pellentesque nec nam aliquam sem et. Viverra nibh cras pulvinar mattis nunc. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam. Aliquam ut porttitor leo a diam. Nunc consequat interdum varius sit amet mattis vulputate enim nulla. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Interdum velit euismod in pellentesque massa. Ut sem nulla pharetra diam sit.
 
