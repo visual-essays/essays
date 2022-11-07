@@ -22,36 +22,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 .ve-video https://www.youtube.com/watch?v=W4LT8-dEhJg sticky
 
-==**00:00:00:00	TREY ELLIS:**=={00:00:00:00}
+00:00:00:00	TREY ELLIS:
 Can you just start telling us about the first time you met Doctor King, and what that was like, and how you felt?
-{data-start=00:00:00:00}
 
-==**00:00:10:00	JOAN BAEZ:**=={00:00:10:00}
+00:00:10:00	JOAN BAEZ:
 You know, the first time I saw Doctor King, I honestly don't remember whether I actually met him. He came to a high school gathering of kids from all over the country and we were all discussing world affairs. It was all about nonviolence. Every year they had a speaker, and that year was Doctor King. So, I just stood there and wept for the entire speech, because this man was doing what I had read about, you know, and studied about, and then all of the sudden there’s this person talking about the bus boycott, and people, you know, walking instead of riding. And so, it was everything I'd read about, was actually taking place. And I'm so overwhelmed still with that moment. I honestly don't remember whether I met him there. I was a sixteen-year-old kid along with all the rest of them. And I don't remember officially when I met him. I know it was at one of the conferences. We finally had a face to face. He cut out the time to do that. And we started doing a lot of joking, so it was a healthy way to begin.
 Q8027 Q9826 Q76611 Q861911
-{data-start=00:00:10:00}
 
-==**00:01:17:00	TREY ELLIS:**=={00:01:17:00}
+00:01:17:00	TREY ELLIS:
 What kind of jokes? Were you intimidated, and then you met him as a jokester? Did he disarm you in that kind of way?
-{data-start=00:01:17:00}
 
-==**00:01:23:00	JOAN BAEZ:**=={00:01:23:00}
+00:01:23:00	JOAN BAEZ:
 Um… No. That very first talk, I think we were both sort of a little bit intimidated maybe. Later on, I mean, his jokes, and Andy knows it too, they all know it, they would tell dirty jokes by the hour, by the hour. I went to pick up- I got- was allowed to go in the car full of lieutenants, there was Jesse, and Bevel, and Andy. And we went to pick up Doctor King. I think it was to bring him in to Grenada. And they had said, yeah, I could come along. I thought- ‘cause- huge demonstration planned for the next day. So, I went, and I thought, "Oh man, I’m really going to get the inside story on how they organize one of these things." They picked him up at the airport, and they told “n-” jokes from the airport to their favorite restaurant, where he ate everything you would think he would order, fried chicken, okra, potatoes, apple pie at the end. Got back in the car and continued until we got back to the conference. And I asked Andy later, I said, "Andy, I thought I was going to hear how your guys organize a march." He said, "You did."
 Q8027 Q8027 Q35874 Q959635 Q310586 Q1920456 Q1248784 Q11707 Q1420 Q15631336
 {data-start=00:01:23:00}
 
-==**00:02:35:00	TREY ELLIS:**=={00:02:35:00}
+00:02:35:00	TREY ELLIS:
 So, let's talk about Grenada. Is that the first- and your experiences there, and the resistance of segregation, once legally segregation was, and the resistance to legal segregation, and how difficult it was going to be.
 {data-start=00:02:35:00}
 
-==**00:02:50:00	JOAN BAEZ:**=={00:02:50:00}
+00:02:50:00	JOAN BAEZ:
 My first experience in the south was nineteen sixty-one when I went there and gave concerts. And the contact actually said, and of course, I never looked at it, "Whites only." I was mortified. I went back the next year, sixty-two with that changed. Of course, no blacks came. They didn't know who I was. So, I went back the third year, and I sang in black campuses. And I was in fact singing at a- I was furious ‘cause I wanted to be in town in the middle of all the arrests. It was in Birmingham- which school is it? Miles? It was Miles and gave a concert there. So, I had already launched that feeling you get in the south when you're going to say something real.
 Q49042 Q3696 Q182832 Q169207 Q1620945 Q1403016
-{data-start=00:02:50:00}
 
-==**00:03:38:00	TREY ELLIS:**=={00:03:38:00}
+00:03:38:00	TREY ELLIS:
 And, so what brought you and King to Grenada?
-{data-start=00:03:38:00}
 
 00:03:43:00	JOAN BAEZ:
 Doctor King called to find out if I would go to Grenada ‘cause he couldn't get there right away. And so, and he thought if the cameras were rolling, then maybe the whites would stop throwing rocks at the kids, which is what happened. The first day I was alone with my people, and, you know, the marchers and the people, but not King. And so, it did probably hold things off for a day, and then he came in the next day. We were, we were marching, and we have it in our films to that giant cop on the corner. And I just stood there and said, "We’d like to- we'd like these children to go to school," you know, and he says, "You can't go no further." So, I talked a little more about, you know, they wanted their education. "You can't go no further." And somewhere on that march I was walking with King, and I saw all of us, and these kids saying, "They ain't going to let nobody turn me around." And across the street were these miserable looking little clutch of white kids.  And I went like this to King and I said, "Are you sure you want to go through with this? That's what they're going to be in class with." And he says, "Not while the cameras are rolling, Joan."
