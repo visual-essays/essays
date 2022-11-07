@@ -1,5 +1,7 @@
 .ve-header "King in the Wilderness - Joan Baez interview" sticky
 
+.ve-add-hypothesis
+
 # King in the Wilderness - Joan Baez interview
 
 ```
@@ -255,7 +257,7 @@ Q49773 Q1251441 Q10459578 Q263681 Q939103
 00:26:41:00	TREY ELLIS:
 How do think your friendship with Doctor King changed the course of your life?
 
-00:26:47:00JOAN BAEZ:
+00:26:47:00 JOAN BAEZ:
 Doctor King is one the most important people who moved me beyond being a student of nonviolence, or being a practitioner, beyond just whatever stubbornness I was showing at home. I refused to stand up and salute the flag, and all that. By the way, King and I always had this fight over the state of America because the war was going on, and I thought this place was pretty decadent and he would give his speech about wanting “their share of the American pie.” And I would say, "And our pie is really not very tasty right now." And we'd always have this fight about it because that was part of his speech. I can't remember what the questions was.
 Q8027 Q76611 Q18603649 Q18603649
 
