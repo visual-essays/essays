@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 An overview of the 35 self portraits created by Van Gogh.
 
-## Farmhouse in Provence {href=farm-house-in-provence}
+## Farmhouse in Provence {href=farmhouse-in-provence}
 
 - Author: Ron Snyder
 
