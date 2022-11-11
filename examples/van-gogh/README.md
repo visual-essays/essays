@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zelfportret_als_schilder_-_s0022V1962_-_Van_Gogh_Museum.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+An overview of the 35 self portraits created by Van Gogh.
 
 ## Farmhouse in Provence {href=farm-house-in-provence}
 
