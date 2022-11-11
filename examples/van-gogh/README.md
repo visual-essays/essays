@@ -1,4 +1,6 @@
-# Van Gogh Essays {.cards}
+.ve-header "Van Gogh Themed Essays" wc:Zelfportret_met_strohoed_-_s0164V1962_-_Van_Gogh_Museum.jpg options=pct:3,21,80,20 position=center sticky
+
+# Van Gogh Themed Essays {.cards}
 
 ## Bedroom in Arles {href=bedroom-in-arles}
 
