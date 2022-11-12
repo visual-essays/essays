@@ -1,31 +1,5 @@
 # How To:  Image Positioning
 
-## Explict Height and Width 
-
-### With Default Fit (cover)
-
-The defaut, full, left, and right positioning will automatically set the image width and height relative to the postion and window size.  This default behavior should work for most layouts.  In some cases it may be necessay to explicitly set the image width and/or height.  This can be done by adding `width` and/or `height` attributes to the `.ve-image` tag.  The width and height can be defined as either a percentage of the window size or as pixels.  For instance:
-
-```Markdown
-  .ve-image <Image Manifest URL> width=60%  height=600px
-```
-
-.ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg width=60% height=600px
-
-Sagittis orci a scelerisque purus. Montes nascetur ridiculus mus mauris. Consectetur a erat nam at lectus urna duis convallis. Pellentesque dignissim enim sit amet venenatis urna cursus eget nunc. Est ultricies integer quis auctor. Lobortis mattis aliquam faucibus purus in massa. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Tincidunt praesent semper feugiat nibh sed. Viverra tellus in hac habitasse. Consectetur adipiscing elit pellentesque habitant morbi.
-
-### With Fit Forced to Contain
-
-When an explict width and/or height is specified the image fit will default to `cover`.  In `cover` mode the image is cropped to fit the specified dimensions.  To override this behavior the `fit=contain` key-value attribute must be added.  In `contain` mode the full image is viewable and letter-boxing is applied to center the image in the viewer.
-
-```Markdown
-  .ve-image <Image Manifest URL> width=60%  height=600px fit=contain
-```
-
-.ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg width=60% height=600px fit=contain
-  
-Sagittis orci a scelerisque purus. Montes nascetur ridiculus mus mauris. Consectetur a erat nam at lectus urna duis convallis. Pellentesque dignissim enim sit amet venenatis urna cursus eget nunc. Est ultricies integer quis auctor. Lobortis mattis aliquam faucibus purus in massa. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Tincidunt praesent semper feugiat nibh sed. Viverra tellus in hac habitasse. Consectetur adipiscing elit pellentesque habitant morbi.
-
 ## Default Positioning
 
 By default, images are positioned vertically aligned relative to the location the `.ve-image` tag is defined in the source text.  The image will be rendered as wide as possible such that the height is no more than 40% of the window height.  Try changing the window height and notice how the height of the image adjusts.
@@ -72,17 +46,28 @@ Sagittis orci a scelerisque purus. Montes nascetur ridiculus mus mauris. Consect
 
 Est pellentesque elit ullamcorper dignissim cras. Pulvinar elementum integer enim neque volutpat ac. Interdum velit euismod in pellentesque massa placerat duis. Nulla aliquet porttitor lacus luctus accumsan tortor. Morbi enim nunc faucibus a pellentesque sit amet porttitor eget. Lectus nulla at volutpat diam ut venenatis tellus. Egestas pretium aenean pharetra magna ac placerat vestibulum. Nisl nisi scelerisque eu ultrices vitae auctor eu. Eget magna fermentum iaculis eu non. Hac habitasse platea dictumst vestibulum rhoncus est. Elementum eu facilisis sed odio morbi quis commodo odio. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Vehicula ipsum a arcu cursus vitae congue mauris. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu.
 
-## Explict Height and Width
+## Explict Height and/or Width 
 
-The defaut, full, left, and right positioning will automatically set the image width and height relative to the postion and window size.  This default behavior should work for most layouts.  In some cases it may be necessay to explicitly set the image width and/or height.  This can be done by adding `width` and/or `height` attributes to the `.ve-image` tag.  The width and height can be defined as either a percentage of the window size or as pixels.  For instance:
+### With Default Fit (cover)
+
+The defaut, full, left, and right positioning will automatically calculate an image width and height relative to the position specified and window size.  This default behavior should work for most layout needs.  However, in some cases it may be necessay to explicitly set the image viewer width and/or height.  This can be done by adding `width` and/or `height` attributes to the `.ve-image` tag.  The width and height can be defined as either a percentage of the window size or in pixels.  For instance, this example defines the viewer width as a percentage of the window and the height as a pixel value.
 
 ```Markdown
-  .ve-image <Image Manifest URL> width=60%
-  .ve-image <Image Manifest URL> width=600px
+  .ve-image <Image Manifest URL> width=60%  height=600px
 ```
 
-.ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg width=60%
-  
+.ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg width=60% height=600px
+
 Sagittis orci a scelerisque purus. Montes nascetur ridiculus mus mauris. Consectetur a erat nam at lectus urna duis convallis. Pellentesque dignissim enim sit amet venenatis urna cursus eget nunc. Est ultricies integer quis auctor. Lobortis mattis aliquam faucibus purus in massa. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Tincidunt praesent semper feugiat nibh sed. Viverra tellus in hac habitasse. Consectetur adipiscing elit pellentesque habitant morbi.
 
-Est pellentesque elit ullamcorper dignissim cras. Pulvinar elementum integer enim neque volutpat ac. Interdum velit euismod in pellentesque massa placerat duis. Nulla aliquet porttitor lacus luctus accumsan tortor. Morbi enim nunc faucibus a pellentesque sit amet porttitor eget. Lectus nulla at volutpat diam ut venenatis tellus. Egestas pretium aenean pharetra magna ac placerat vestibulum. Nisl nisi scelerisque eu ultrices vitae auctor eu. Eget magna fermentum iaculis eu non. Hac habitasse platea dictumst vestibulum rhoncus est. Elementum eu facilisis sed odio morbi quis commodo odio. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Vehicula ipsum a arcu cursus vitae congue mauris. Vulputate sapien nec sagittis aliquam malesuada
+### With Fit Forced to Contain
+
+When an explict width and/or height is specified the image fit will default to `cover` mode.  In `cover` mode the image is cropped to fit the specified dimensions if needed.  To override this behavior the `fit=contain` key-value attribute must be added.  In `contain` mode the full image is viewable and letter-boxing is applied to center the image in the viewer if needed.
+
+```Markdown
+  .ve-image <Image Manifest URL> width=60%  height=600px fit=contain
+```
+
+.ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg width=60% height=600px fit=contain
+  
+Sagittis orci a scelerisque purus. Montes nascetur ridiculus mus mauris. Consectetur a erat nam at lectus urna duis convallis. Pellentesque dignissim enim sit amet venenatis urna cursus eget nunc. Est ultricies integer quis auctor. Lobortis mattis aliquam faucibus purus in massa. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Tincidunt praesent semper feugiat nibh sed. Viverra tellus in hac habitasse. Consectetur adipiscing elit pellentesque habitant morbi.
