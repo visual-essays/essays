@@ -49,8 +49,11 @@ Est pellentesque elit ullamcorper dignissim cras. Pulvinar elementum integer eni
 ## Explict Height and Width
 
 The defaut, full, left, and right positioning will automatically set the image width and height relative to the postion and window size.  This default behavior should work for most layouts.  In some cases it may be necessay to explicitly set the image width and/or height.  This can be done by adding `width` and/or `height` attributes to the `.ve-image` tag.  The width and height can be defined as either a percentage of the window size or as pixels.  For instance:
-- .ve-image <Image Manifest URL> width=60%
-- .ve-image <Image Manifest URL> width=600px
+
+```Markdown
+  .ve-image <Image Manifest URL> width=60%
+  .ve-image <Image Manifest URL> width=600px
+```
 
 .ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg width=60%
   
