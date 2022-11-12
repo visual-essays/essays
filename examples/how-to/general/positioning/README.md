@@ -1,4 +1,4 @@
-[Examples](../../..) > [How To](../..) > [General](..)
+[Examples](../../..) > [How To](../..) > [General](..) > Component Positioning
 
 # How To:  Component Positioning
 
