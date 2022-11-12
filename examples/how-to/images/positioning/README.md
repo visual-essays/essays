@@ -2,7 +2,7 @@
 
 ## Default Positioning
 
-By default, components are positioned vertically aligned relative to the location the component tag is defined in the source text.  The component will be rendered as wide as possible such that the height is no more than 40% of the window height.  Try changing the window height and notice how the height of the component adjusts.
+By default, components are positioned vertically aligned relative to the location the location that the component tag is defined in the source text.  The component will be rendered as wide as possible such that the height is no more than 40% of the window height.  Try changing the window height and notice how the height of the component adjusts.
 
 .ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg
 
@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Full Positioning
 
-Similar to the default mode, component are positioned vertically aligned relative to the location the tag is defined in the source text.  The component is rendered as wide as possible but the _height is not restricted to 40% of the window height_.
+Similar to the default positioning mode, when specifying `full` positioning mode components are positioned vertically aligned relative to the location the tag is defined in the source text.  The component is at full window width and the height is calculated relative to the width.  _The height is not restricted to 40% of the window height_.
 
 .ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg full
 
@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Right and Left Positioning
 
-When the positioning is defined as `left` or `right` the component is aligned with the left or right side of the window and the width is restricted to 50% of the window.  The component height is scaled to retain the original component orientation. Any text that follows the component within the same section will be positioned on the opposite side of the window and will wrap around the component if the text length exceeds the image height.
+When the component  positioning is defined as `left` or `right` the component is aligned with the left or right side of the window and the width is calculated to be 50% of the window.  The component height is scaled to retain the original component orientation. Any text that follows the component within the same section will be positioned on the opposite side of the window and will wrap around the component if the text length exceeds the image height.
 
 .ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg right
 
@@ -28,7 +28,7 @@ Cras tincidunt lobortis feugiat vivamus at augue. Malesuada proin libero nunc co
 
 ## "Sticky" Images
 
-In some cases it is desireable to force the component to remain visible when text in the same section is scrolled.  Adding the `sticky` attribute to a component declaration will stick the component at the top of the window when scolling text in the same section.  The sticky attribute can be used with default, full, left, or right positioning.  When used with default or full positioning text will scroll behind the component.  With left or right positioning the text will scroll in the adjacent column.
+In some cases it may be desireable to force the component to remain visible when text in the same section is scrolled.  Adding the `sticky` attribute to a component declaration will stick the component at the top of the window when scolling text in the same section.  The sticky attribute can be used with default, full, left, or right positioning.  When used with default or full positioning text will scroll behind the component.  With left or right positioning the text will scroll in the adjacent column.
 
 ### Full Positioning with Sticky Image
 
