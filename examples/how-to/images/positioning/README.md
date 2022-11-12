@@ -1,8 +1,8 @@
-# How To:  Image Positioning
+# How To:  Component Positioning
 
 ## Default Positioning
 
-By default, images are positioned vertically aligned relative to the location the `.ve-image` tag is defined in the source text.  The image will be rendered as wide as possible such that the height is no more than 40% of the window height.  Try changing the window height and notice how the height of the image adjusts.
+By default, components are positioned vertically aligned relative to the location the component tag is defined in the source text.  The component will be rendered as wide as possible such that the height is no more than 40% of the window height.  Try changing the window height and notice how the height of the component adjusts.
 
 .ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg
 
@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Full Positioning
 
-Similar to the default mode, images are positioned vertically aligned relative to the location the `.ve-image` tag is defined in the source text.  The image is rendered as wide as possible but the _height is not restricted to 40% of the window height_.
+Similar to the default mode, component are positioned vertically aligned relative to the location the tag is defined in the source text.  The component is rendered as wide as possible but the _height is not restricted to 40% of the window height_.
 
 .ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg full
 
@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Right and Left Positioning
 
-When the positioning is defined as `left` or `right` the image is aligned with the left or right side of the window and the width is restricted to 50% of the window.  The image height is scaled to retain the original image orientation. Any text that follows the `ve-image` within the same section will be positioned on the opposite side of the window and will wrap around the image if the text length exceeds the image height.
+When the positioning is defined as `left` or `right` the component is aligned with the left or right side of the window and the width is restricted to 50% of the window.  The component height is scaled to retain the original component orientation. Any text that follows the component within the same section will be positioned on the opposite side of the window and will wrap around the component if the text length exceeds the image height.
 
 .ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg right
 
@@ -28,7 +28,7 @@ Cras tincidunt lobortis feugiat vivamus at augue. Malesuada proin libero nunc co
 
 ## "Sticky" Images
 
-In some cases it is desireable to force the image to remain visible when text in the same section is scrolled.  Adding the `sticky` attribute to a `.ve-image` declaration will stick the image at the top of the window when scolling text in the same section.  The sticky attribute can be used with default, full, left, or right positioning.  When used with default or full positioning text will scroll behind the image.  With left or right positioning the text will scroll in the adjacent column.
+In some cases it is desireable to force the component to remain visible when text in the same section is scrolled.  Adding the `sticky` attribute to a component declaration will stick the component at the top of the window when scolling text in the same section.  The sticky attribute can be used with default, full, left, or right positioning.  When used with default or full positioning text will scroll behind the component.  With left or right positioning the text will scroll in the adjacent column.
 
 ### Full Positioning with Sticky Image
 
@@ -48,9 +48,7 @@ Est pellentesque elit ullamcorper dignissim cras. Pulvinar elementum integer eni
 
 ## Explict Height and/or Width 
 
-### With Default Fit (cover)
-
-The defaut, full, left, and right positioning will automatically calculate an image width and height relative to the position specified and window size.  This default behavior should work for most layout needs.  However, in some cases it may be necessay to explicitly set the image viewer width and/or height.  This can be done by adding `width` and/or `height` attributes to the `.ve-image` tag.  The width and height can be defined as either a percentage of the window size or in pixels.  For instance, this example defines the viewer width as a percentage of the window and the height as a pixel value.
+The defaut, full, left, and right positioning will automatically calculate a component width and height relative to the position specified and window size.  This default behavior should work for most layout needs.  However, in some cases it may be desired to explicitly set the component width and/or height.  This can be done by adding `width` and/or `height` attributes to the component tag.  The width and height can be defined as either a percentage of the window size or in pixels.  For instance, this example defines the viewer width as a percentage of the window and the height as a pixel value.
 
 ```Markdown
   .ve-image <Image Manifest URL> width=60%  height=600px
@@ -60,7 +58,7 @@ The defaut, full, left, and right positioning will automatically calculate an im
 
 Sagittis orci a scelerisque purus. Montes nascetur ridiculus mus mauris. Consectetur a erat nam at lectus urna duis convallis. Pellentesque dignissim enim sit amet venenatis urna cursus eget nunc. Est ultricies integer quis auctor. Lobortis mattis aliquam faucibus purus in massa. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Tincidunt praesent semper feugiat nibh sed. Viverra tellus in hac habitasse. Consectetur adipiscing elit pellentesque habitant morbi.
 
-### With Fit Forced to Contain
+### Image Considerations
 
 When an explict width and/or height is specified the image fit will default to `cover` mode.  In `cover` mode the image is cropped to fit the specified dimensions if needed.  To override this behavior the `fit=contain` key-value attribute must be added.  In `contain` mode the full image is viewable and letter-boxing is applied to center the image in the viewer if needed.
 
