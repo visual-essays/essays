@@ -1,3 +1,3 @@
 # Images How To Guides
 
--[Positioning](positioning)
+- [Positioning](positioning)
