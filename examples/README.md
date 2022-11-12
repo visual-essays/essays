@@ -7,3 +7,11 @@
 ![](http://localhost:8088/thumbnail/wc:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_(454045).jpg)
 
 Vincent van Gogh themed visual essays.
+
+## How To's {href=how-to}
+
+- Author: Ron Snyder
+
+![](http://localhost:8088/thumbnail/wc:Wikibooks-help-icon.svg)
+
+How To Guides.
