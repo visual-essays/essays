@@ -30,7 +30,7 @@ Cras tincidunt lobortis feugiat vivamus at augue. Malesuada proin libero nunc co
 
 In some cases it is desireable to force the image to remain visible when text in the same section is scrolled.  Adding the `sticky` attribute to a `.ve-image` declaration will stick the image at the top of the window when scolling text in the same section.  The sticky attribute can be used with default, full, left, or right positioning.  When used with default or full positioning text will scroll behind the image.  With left or right positioning the text will scroll in the adjacent column.
 
-## Full Positioning with Sticky
+### Full Positioning with Sticky Image
 
 .ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg sticky
 
@@ -38,10 +38,22 @@ Sagittis orci a scelerisque purus. Montes nascetur ridiculus mus mauris. Consect
 
 Est pellentesque elit ullamcorper dignissim cras. Pulvinar elementum integer enim neque volutpat ac. Interdum velit euismod in pellentesque massa placerat duis. Nulla aliquet porttitor lacus luctus accumsan tortor. Morbi enim nunc faucibus a pellentesque sit amet porttitor eget. Lectus nulla at volutpat diam ut venenatis tellus. Egestas pretium aenean pharetra magna ac placerat vestibulum. Nisl nisi scelerisque eu ultrices vitae auctor eu. Eget magna fermentum iaculis eu non. Hac habitasse platea dictumst vestibulum rhoncus est. Elementum eu facilisis sed odio morbi quis commodo odio. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Vehicula ipsum a arcu cursus vitae congue mauris. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu.
 
-## Right Positioning with Sticky
+### Right Positioning with Sticky Image
 
 .ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg right sticky
 
 Sagittis orci a scelerisque purus. Montes nascetur ridiculus mus mauris. Consectetur a erat nam at lectus urna duis convallis. Pellentesque dignissim enim sit amet venenatis urna cursus eget nunc. Est ultricies integer quis auctor. Lobortis mattis aliquam faucibus purus in massa. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Tincidunt praesent semper feugiat nibh sed. Viverra tellus in hac habitasse. Consectetur adipiscing elit pellentesque habitant morbi.
 
 Est pellentesque elit ullamcorper dignissim cras. Pulvinar elementum integer enim neque volutpat ac. Interdum velit euismod in pellentesque massa placerat duis. Nulla aliquet porttitor lacus luctus accumsan tortor. Morbi enim nunc faucibus a pellentesque sit amet porttitor eget. Lectus nulla at volutpat diam ut venenatis tellus. Egestas pretium aenean pharetra magna ac placerat vestibulum. Nisl nisi scelerisque eu ultrices vitae auctor eu. Eget magna fermentum iaculis eu non. Hac habitasse platea dictumst vestibulum rhoncus est. Elementum eu facilisis sed odio morbi quis commodo odio. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Vehicula ipsum a arcu cursus vitae congue mauris. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu.
+
+## Explict Height and Width
+
+The defaut, full, left, and right positioning will automatically set the image width and height relative to the postion and window size.  This default behavior should work for most layouts.  In some cases it may be necessay to explicitly set the image width and/or height.  This can be done by adding `width` and/or `height` attributes to the `.ve-image` tag.  The width and height can be defined as either a percentage of the window size or as pixels.  For instance:
+- .ve-image <Image Manifest URL> width=60%
+- .ve-image <Image Manifest URL> width=600px
+
+.ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg width=60%
+  
+Sagittis orci a scelerisque purus. Montes nascetur ridiculus mus mauris. Consectetur a erat nam at lectus urna duis convallis. Pellentesque dignissim enim sit amet venenatis urna cursus eget nunc. Est ultricies integer quis auctor. Lobortis mattis aliquam faucibus purus in massa. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Tincidunt praesent semper feugiat nibh sed. Viverra tellus in hac habitasse. Consectetur adipiscing elit pellentesque habitant morbi.
+
+Est pellentesque elit ullamcorper dignissim cras. Pulvinar elementum integer enim neque volutpat ac. Interdum velit euismod in pellentesque massa placerat duis. Nulla aliquet porttitor lacus luctus accumsan tortor. Morbi enim nunc faucibus a pellentesque sit amet porttitor eget. Lectus nulla at volutpat diam ut venenatis tellus. Egestas pretium aenean pharetra magna ac placerat vestibulum. Nisl nisi scelerisque eu ultrices vitae auctor eu. Eget magna fermentum iaculis eu non. Hac habitasse platea dictumst vestibulum rhoncus est. Elementum eu facilisis sed odio morbi quis commodo odio. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Vehicula ipsum a arcu cursus vitae congue mauris. Vulputate sapien nec sagittis aliquam malesuada
