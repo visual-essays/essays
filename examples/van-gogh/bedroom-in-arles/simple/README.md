@@ -10,7 +10,7 @@
 
 .ve-image wc:Vincent_van_Gogh_-_The_yellow_house_('The_street').jpg right
 
-The painting depicts van Gogh's bedroom at 2, Place Lamartine in Arles, Bouches-du-Rhône, France, known as the Yellow House. The door to the right opened on to the upper floor and the staircase; the door to the left was that of the guest room he held prepared for Gauguin; the window in the front wall looked on to Place Lamartine and its public gardens. This room was not rectangular but trapezoid with an obtuse angle in the left hand corner of the front wall and an acute angle at the right.[^1]
+The painting depicts van Gogh's bedroom at 2, Place Lamartine in Arles, Bouches-du-Rhône, France, known as the Yellow House. The door to the right opened on to the upper floor and the staircase; the door to the left was that of the guest room he held prepared for Gauguin; the window in the front wall looked on to Place Lamartine and its public gardens. This room was not rectangular but trapezoid with an obtuse angle in the left hand corner of the front wall and an acute angle at the right.
 
 The house was the right wing of 2 Place Lamartine, Arles, France, where, on May 1, 1888, van Gogh rented four rooms. He occupied two large ones on the ground floor to serve as an atelier (workshop) and kitchen, and on the first floor, two smaller ones facing Place Lamartine. The window on the first floor nearest the corner with both shutters open is that of van Gogh's guest room, where Paul Gauguin lived for nine weeks from late October 1888. Behind the next window, with shutters nearly closed, is van Gogh's bedroom. The two small rooms at the rear were rented by van Gogh at a later time.
 
@@ -23,13 +23,17 @@ The building was severely damaged in a bombing raid by the Allies on June 25, 19
 There are three authentic versions described in his letters, easily distinguishable from one another by the pictures on the wall to the right.
 
 .ve-image grid col3
-    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg full width=75%
-    - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
-    - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg 1 pct:10,20,90,80 "First version (1888)"
+    - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg 2 100,200,300,400 "Second version (April 1889)"
+    - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg "Third version (September 1889)"
 
 ### First Version
 
 Van Gogh started the first version during mid October 1888 while staying in Arles, and explained his aims and means to his brother Theo:
+
+.ve-image right
+    - wc:Vincent_van_Gogh_-_Vincent's_Bedroom_-_Lettersketch_17_October_1888.jpg
+    - wc:Vincent_van_Gogh_-_Vincent's_Bedroom_in_Arles_-_Letter_Sketch_October_1888.jpg
 
 >_"This time it simply reproduces my bedroom; but colour must be abundant in this part, its simplification adding a rank of grandee to the style applied to the objects, getting to suggest a certain rest or dream. Well, I have thought that on watching the composition we stop thinking and imagining. I have painted the walls pale violet. The ground with checked material. The wooden bed and the chairs, yellow like fresh butter; the sheet and the pillows, lemon light green. The bedspread, scarlet coloured. The window, green. The washbasin, orangey; the tank, blue. The doors, lilac. And, that is all. There is not anything else in this room with closed shutters. The square pieces of furniture must express unswerving rest; also the portraits on the wall, the mirror, the bottle, and some costumes. The white colour has not been applied to the picture, so its frame will be white, aimed to get me even with the compulsory rest recommended for me. I have depicted no type of shade or shadow; I have only applied simple plain colours, like those in crêpes."_
 
