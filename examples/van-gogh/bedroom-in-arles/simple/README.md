@@ -18,6 +18,36 @@ Van Gogh indicated that the restaurant where he used to have his meals was in th
 
 The building was severely damaged in a bombing raid by the Allies on June 25, 1944, and was later demolished.
 
-## The 3 Versions
+## The Paintings
 
 There are three authentic versions described in his letters, easily distinguishable from one another by the pictures on the wall to the right.
+
+.ve-image grid col3
+    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg full width=75%
+    - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg
+
+### First Version
+
+Van Gogh started the first version during mid October 1888 while staying in Arles, and explained his aims and means to his brother Theo:
+
+>_"This time it simply reproduces my bedroom; but colour must be abundant in this part, its simplification adding a rank of grandee to the style applied to the objects, getting to suggest a certain rest or dream. Well, I have thought that on watching the composition we stop thinking and imagining. I have painted the walls pale violet. The ground with checked material. The wooden bed and the chairs, yellow like fresh butter; the sheet and the pillows, lemon light green. The bedspread, scarlet coloured. The window, green. The washbasin, orangey; the tank, blue. The doors, lilac. And, that is all. There is not anything else in this room with closed shutters. The square pieces of furniture must express unswerving rest; also the portraits on the wall, the mirror, the bottle, and some costumes. The white colour has not been applied to the picture, so its frame will be white, aimed to get me even with the compulsory rest recommended for me. I have depicted no type of shade or shadow; I have only applied simple plain colours, like those in crêpes."
+
+Van Gogh included sketches of the composition in this letter as well as in a letter to Gauguin, written slightly later.  In the letter, van Gogh explained that the painting had come out of a sickness that left him bedridden for days.
+
+## Second Version
+
+In April 1889, van Gogh sent the initial version to his brother regretting that it had been damaged by the flood of the Rhône while he was interned at the Old Hospital in Arles. Theo proposed to have it relined and sent back to him in order to copy it. This "repetition" in original scale (Van Gogh's term was "répetition") was executed in September 1889. Both paintings were then sent back to Theo.
+
+## Third Version
+
+In summer, 1889, Van Gogh finally decided to redo some of his "best" compositions in a smaller size (the term he used was réductions) for his mother and his sister Wil, The Bedroom was among the subjects he chose.[^10] These réductions, finished late in September 1889, are not exact copies.
+
+In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of Zundert self-portrait. The one to the right cannot be linked convincingly to any existing painting by van Gogh
+
+## Provenance
+
+- The first version never left the artist's estate. Since 1962, it has been in the possession of the Vincent van Gogh Foundation, established by Vincent Willem van Gogh, the artist's nephew, and on permanent loan to the Van Gogh Museum, Amsterdam.
+- The second version has, since 1926, been the possession of the Art Institute of Chicago as part of the Helen Birch Bartlett Memorial Collection.
+- The third version, formerly in the possession of Van Gogh's sister Wil and later acquired by Prince Matsukata, entered the French national collections in 1959, following the French-Japanese peace settlement, and is on permanent display in the Musée d'Orsay, Paris.
+- All three versions of the Bedroom were brought together for an exhibition entitled Van Gogh's Bedrooms at the Art Institute of Chicago in 2016. The exhibition featured related works as well as a digital reconstruction of his bedroom.
