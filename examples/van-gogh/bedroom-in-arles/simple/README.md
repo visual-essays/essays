@@ -1,4 +1,4 @@
-.ve-header "Bedroom in Arles" wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg sticky
+.ve-header "Bedroom in Arles" wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg sticky position=top
 
 # Bedroom in Arles
 
