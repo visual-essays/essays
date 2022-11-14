@@ -90,10 +90,32 @@ In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of
 
 ## Comparing the versions
 
+### Versions 1 and 2
+
+.ve-image compare
+    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
+
+### Versions 1 and 3
+
+.ve-image compare
+    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg 
+
+### Versions 2 and 3
+
+.ve-image compare
+    - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg 
+
+### All 3 Versions in "Curtain" Compare Mode
+
 .ve-image compare curtain
     - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
     - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
     - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg 
+
+### All 3 Versions in "Sync" Compare Mode
 
 .ve-image compare sync height=400px
     - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
