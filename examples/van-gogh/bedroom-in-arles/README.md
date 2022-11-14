@@ -9,7 +9,7 @@ Van Gogh's own title for this composition was simply ***The Bedroom***. There ar
 .ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg full width=75%
 
 .ve-image grid col3
-    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg full width=75%
+    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
     - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
     - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg
 
