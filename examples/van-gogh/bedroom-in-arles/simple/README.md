@@ -2,7 +2,7 @@
 
 # Bedroom in Arles
 
-***Bedroom in Arles*** is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter Vincent van Gogh.  Van Gogh's own title for this composition was simply ***The Bedroom***. 
+***Bedroom in Arles*** is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter ==Vincent van Gogh=={.entity qid=Q5582}.  Van Gogh's own title for this composition was simply ***The Bedroom***. 
 
 .ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg 
 
@@ -10,7 +10,7 @@
 
 .ve-image wc:Vincent_van_Gogh_-_The_yellow_house_('The_street').jpg right
 
-The painting depicts van Gogh's bedroom at 2, Place Lamartine in Arles, Bouches-du-Rhône, France, known as the Yellow House. The door to the right opened on to the upper floor and the staircase; the door to the left was that of the guest room he held prepared for Gauguin; the window in the front wall looked on to Place Lamartine and its public gardens. This room was not rectangular but trapezoid with an obtuse angle in the left hand corner of the front wall and an acute angle at the right.
+The painting depicts van Gogh's bedroom at 2, Place Lamartine in Arles, Bouches-du-Rhône, France, known as the ==Yellow House=={.entity qid=Q26221303}. The door to the right opened on to the upper floor and the staircase; the door to the left was that of the guest room he held prepared for Gauguin; the window in the front wall looked on to Place Lamartine and its public gardens. This room was not rectangular but trapezoid with an obtuse angle in the left hand corner of the front wall and an acute angle at the right.
 
 The house was the right wing of 2 Place Lamartine, Arles, France, where, on May 1, 1888, van Gogh rented four rooms. He occupied two large ones on the ground floor to serve as an atelier (workshop) and kitchen, and on the first floor, two smaller ones facing Place Lamartine. The window on the first floor nearest the corner with both shutters open is that of van Gogh's guest room, where Paul Gauguin lived for nine weeks from late October 1888. Behind the next window, with shutters nearly closed, is van Gogh's bedroom. The two small rooms at the rear were rented by van Gogh at a later time.
 
