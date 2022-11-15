@@ -23,8 +23,8 @@ The building was severely damaged in a bombing raid by the Allies on June 25, 19
 There are three authentic versions described in his letters, easily distinguishable from one another by the pictures on the wall to the right.
 
 .ve-image grid col3
-    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg 1 pct:10,20,90,80 "First version (1888)"
-    - https://api.artic.edu/api/v1/artworks/28560/manifest.json 2 100,200,300,400 "Second version (September 1889)"
+    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg "First version (1888)"
+    - https://api.artic.edu/api/v1/artworks/28560/manifest.json "Second version (September 1889)"
     - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg "Third version (September 1889)"
 
 ### First Version
@@ -42,6 +42,10 @@ Van Gogh included sketches of the composition in ==this letter=={1} as well as =
 ## Second Version
 
 In April 1889, van Gogh sent the initial version to his brother regretting that it had been damaged by the flood of the Rhône while he was interned at the Old Hospital in Arles. Theo proposed to have it relined and sent back to him in order to copy it. This "repetition" in original scale (Van Gogh's term was "répetition") was executed in September 1889. Both paintings were then sent back to Theo.
+
+.ve-image compare sync width=80%
+    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg "First version (1888)"
+    - https://api.artic.edu/api/v1/artworks/28560/manifest.json "Second version (September 1889)"
 
 ## Third Version
 
