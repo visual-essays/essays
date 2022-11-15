@@ -4,7 +4,7 @@
 
 ***Bedroom in Arles*** is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter ==Vincent van Gogh=={Q5582}.  Van Gogh's own title for this composition was simply ***The Bedroom***. 
 
-.ve-image https://api.artic.edu/api/v1/artworks/28560/manifest.json
+.ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg 
 
 ## _The Yellow House_
 
@@ -24,7 +24,7 @@ There are three authentic versions described in his letters, easily distinguisha
 
 .ve-image grid col3
     - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg 1 pct:10,20,90,80 "First version (1888)"
-    - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg 2 100,200,300,400 "Second version (April 1889)"
+    - https://api.artic.edu/api/v1/artworks/28560/manifest.json 2 100,200,300,400 "Second version (April 1889)"
     - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg "Third version (September 1889)"
 
 ### First Version
