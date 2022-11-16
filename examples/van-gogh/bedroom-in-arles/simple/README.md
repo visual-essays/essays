@@ -6,8 +6,6 @@
 
 .ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg 
 
-What's up with that ==blob of paint=={f49d00ec} on the chair?
-
 ## _The Yellow House_
 
 .ve-image wc:Vincent_van_Gogh_-_The_yellow_house_('The_street').jpg right
