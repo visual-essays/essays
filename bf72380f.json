@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Paint blob on chair",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/76ed38ac46c69154917263be0f47301e.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:10557.6064453125,9740.1376953125,467.4482421875,494.4521484375"
+      },
+      "id": "bf72380f"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f49d00ec"
+  }
+]
