@@ -20,14 +20,20 @@ After logging in with Github and providing Juncture access to your Github accoun
 
 ### Juncture Editor Overview
 
+.ve-media gh:visual-essays/media/images/Juncture_Editor.png right
+
+1. ==Github repository selector=={0,0,751,1098|7cc4f0fb}
+2. ==Markdown toolbar=={0,0,751,1098|79479e74}
+3. ==Juncture toolbar=={560,0,522,762|44cc3619}
+    - ==Preview=={560,0,522,762|de7c7af6} - The preview button will toggle the Juncture editor between edit and preview modes.
+    - ==Help=={560,0,522,762|48618266} - Opens a new Help window with Juncture documentation
+    - ==Save=={560,0,522,762|fbb24f5a} - The save button will write the essay text to Github
+    - ==Copy=={560,0,522,762|c12e1ee4} - Copies the essay text onto the clipboard
+    - ==Launch=={560,0,522,762|59ecd40f} - The launch button will display the essay in a new tab
+5. Editor window
+
+### Juncture Editor Overview
+
 .ve-image gh:visual-essays/media/images/Juncture_Editor.png right
 
-1. Github repository selector
-2. Markdown toolbar
-3. ==Juncture toolbar=={503,0,503,765 44cc3619}
-    - Preview - The preview button will toggle the Juncture editor between edit and preview modes.
-    - Help - Opens a new Help window with Juncture documentation
-    - Save - The save button will write the essay text to Github
-    - Launch - The launch button will display the essay in a new tab
-    - Copy - Copies the essay text onto the clipboard
-5. Editor window
+Lorem ==ipsum=={100,100,500,500} dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non arcu risus quis varius. Nisi vitae suscipit tellus mauris a diam maecenas. Ornare lectus sit
