@@ -18,7 +18,7 @@
       "id": "/visual-essays/essays/83b159d8"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays83b159d8/2941a656"
+    "id": "/annotation/visual-essays/essays83b159d8//annotation/visual-essays/essays83b159d8/2941a656"
   },
   {
     "type": "Annotation",
@@ -36,9 +36,30 @@
         "conformsTo": "http://www.w3.org/TR/media-frags/",
         "value": "xywh=pixel:797.7227172851562,145.48992919921875,208.3170166015625,49.565643310546875"
       },
+      "id": "/visual-essays/essays/83b159d8"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "/annotation/visual-essays/essays83b159d8/e8ca2d3b"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Preview button",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/83b159d8ca202504e037e85b1d01cf8346a67883f1d60fc83724d9e2db5890fe",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:820.1748046875,156.0989532470703,32.643798828125,29.30462646484375"
+      },
       "id": "83b159d8"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "e8ca2d3b"
+    "id": "d9312531"
   }
 ]
