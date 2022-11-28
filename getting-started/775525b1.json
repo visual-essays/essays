@@ -18,7 +18,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1/79479e74"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/79479e74"
   },
   {
     "type": "Annotation",
@@ -36,9 +36,30 @@
         "conformsTo": "http://www.w3.org/TR/media-frags/",
         "value": "xywh=pixel:808.5762329101562,143.88682556152344,195.1756591796875,49.16761779785156"
       },
+      "id": "/visual-essays/essays/getting-started/775525b1"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1/44cc3619"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Preview button",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/83b159d8ca202504e037e85b1d01cf8346a67883f1d60fc83724d9e2db5890fe",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:819.1898803710938,152.7406005859375,36.3857421875,37.19224548339844"
+      },
       "id": "775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "44cc3619"
+    "id": "de7c7af6"
   }
 ]
