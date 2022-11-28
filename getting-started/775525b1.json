@@ -18,7 +18,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/79479e74"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/79479e74"
   },
   {
     "type": "Annotation",
@@ -39,7 +39,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/44cc3619"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/44cc3619"
   },
   {
     "type": "Annotation",
@@ -60,7 +60,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/de7c7af6"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/de7c7af6"
   },
   {
     "type": "Annotation",
@@ -81,7 +81,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1/http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/48618266"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/48618266"
   },
   {
     "type": "Annotation",
@@ -99,10 +99,10 @@
         "conformsTo": "http://www.w3.org/TR/media-frags/",
         "value": "xywh=pixel:923.2587890625,160.82325744628906,31.9417724609375,35.1097412109375"
       },
-      "id": "getting-started/775525b1"
+      "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/fbb24f5a"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1/http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/fbb24f5a"
   },
   {
     "type": "Annotation",
@@ -118,12 +118,12 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:919.7078247070312,152.75440979003906,33.99395751953125,36.642608642578125"
+        "value": "xywh=pixel:956.2130126953125,158.23019409179688,33.99395751953125,36.642608642578125"
       },
-      "id": "/visual-essays/essays/getting-started/775525b1"
+      "id": "getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/c12e1ee4"
+    "id": "http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/c12e1ee4"
   },
   {
     "type": "Annotation",
@@ -144,6 +144,6 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/59ecd40f"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/59ecd40f"
   }
 ]
