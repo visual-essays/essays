@@ -18,7 +18,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/79479e74"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/79479e74"
   },
   {
     "type": "Annotation",
@@ -39,7 +39,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/44cc3619"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/44cc3619"
   },
   {
     "type": "Annotation",
@@ -60,7 +60,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/de7c7af6"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/de7c7af6"
   },
   {
     "type": "Annotation",
@@ -81,7 +81,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/48618266"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/48618266"
   },
   {
     "type": "Annotation",
@@ -102,7 +102,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1/fbb24f5a"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/fbb24f5a"
   },
   {
     "type": "Annotation",
@@ -120,9 +120,30 @@
         "conformsTo": "http://www.w3.org/TR/media-frags/",
         "value": "xywh=pixel:919.7078247070312,152.75440979003906,33.99395751953125,36.642608642578125"
       },
+      "id": "/visual-essays/essays/getting-started/775525b1"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1/c12e1ee4"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Launch button",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/83b159d8ca202504e037e85b1d01cf8346a67883f1d60fc83724d9e2db5890fe",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:954.7180786132812,152.38983154296875,31.45849609375,35.49089050292969"
+      },
       "id": "775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "c12e1ee4"
+    "id": "59ecd40f"
   }
 ]
