@@ -24,7 +24,7 @@ After logging in with Github and providing Juncture access to your Github accoun
 
 1. Github repository selector
 2. Markdown toolbar
-3. Juncture toolbar
+3. ==Juncture toolbar=={503,0,503,765 44cc3619}
     - Preview - The preview button will toggle the Juncture editor between edit and preview modes.
     - Help - Opens a new Help window with Juncture documentation
     - Save - The save button will write the essay text to Github
