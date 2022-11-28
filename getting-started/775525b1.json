@@ -13,12 +13,12 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:4.100261211395264,144.7344512939453,318.45262575149536,42.335113525390625"
+        "value": "xywh=pixel:35.89307737350464,151.5471954345703,318.45262575149536,42.335113525390625"
       },
-      "id": "/visual-essays/essays/getting-started/775525b1"
+      "id": "getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "79479e74"
+    "id": "http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/79479e74"
   },
   {
     "type": "Annotation",
@@ -39,7 +39,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "44cc3619"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1/44cc3619"
   },
   {
     "type": "Annotation",
@@ -60,7 +60,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "de7c7af6"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1/de7c7af6"
   },
   {
     "type": "Annotation",
@@ -81,7 +81,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "48618266"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1/48618266"
   },
   {
     "type": "Annotation",
@@ -102,7 +102,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "fbb24f5a"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1/fbb24f5a"
   },
   {
     "type": "Annotation",
@@ -120,10 +120,10 @@
         "conformsTo": "http://www.w3.org/TR/media-frags/",
         "value": "xywh=pixel:919.7078247070312,152.75440979003906,33.99395751953125,36.642608642578125"
       },
-      "id": "775525b1"
+      "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1/c12e1ee4"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/c12e1ee4"
   },
   {
     "type": "Annotation",
@@ -141,9 +141,9 @@
         "conformsTo": "http://www.w3.org/TR/media-frags/",
         "value": "xywh=pixel:954.7180786132812,152.38983154296875,31.45849609375,35.49089050292969"
       },
-      "id": "775525b1"
+      "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "59ecd40f"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1/59ecd40f"
   }
 ]
