@@ -16,20 +16,24 @@ If you don't already have a Github account one can be created at [https://github
 
 .ve-media gh:visual-essays/media/videos/GitHub_Login.mp4 right
 
-### Login to Github and authorize Juncture to write Github content {style=clear:unset}
+### Login to Github {style=clear:unset}
 
 Logging into Github from Juncture authorizes Juncture to interact with your Github repository content from the Juncture Editor tool.  Note that this is an optional step as Github files may be edited directly in the Github web interface or by using any number of client applications running on your local computer. This getting start guide assumes the Juncture Editor is used.
 
 1. ==Select Juncture "Login" from Juncture menu=={0,3}
-2. ==Login to Github=={4,7}
+2. ==Login to Github=={4,7} with your Github username and password.
 3. ==Authorize Juncture to write Github content=={9,10}.  This will only be required on an initial login.  (Note that this authorization may be revoked using in [Github settings](https://github.com/settings/apps/authorizations))
-4. ==Open Juncture editor=={15}.  
+4. ==Open Juncture editor=={15} after logging in with Github.
 
-### Juncture Editor Overview
+### The Juncture Editor
+
+Juncture provides a web-based editor for authoring visual essays.  The editor handles Github content management and includes a convenient preview option for viewing working versions of essays.  The Juncture editor also supports the automatic creation of viewer tags by simply dragging images and other media (including YouTube videos) into the browser window.
 
 .ve-media gh:visual-essays/media/images/Juncture_Editor.png right
 
-1. ==Github repository selector=={0,0,751,1098|7cc4f0fb}
+This section provides an overview of the Juncture editor sections.  Video clips in this document show many of the typical uses of the editor.
+
+1. ==Github content tool=={0,0,751,1098|7cc4f0fb}.  The Github content tool provides basic content mangement support for interacting with Github.  By default the content tool reads and writes files from the `essays` repository in a users primary Github account.  Other accounts and repositories may be used if desired.  The content tool provides drop down menus for selecting other Github accounts and repositories.  For many users the default `essays` repository is probably a good option changing Github accounts and/or repositories will not be required.
 2. ==Markdown toolbar=={0,0,751,1098|79479e74}
 3. ==Juncture toolbar=={560,0,522,762|44cc3619}
     - ==Preview=={560,0,522,762|de7c7af6} - The preview button will toggle the Juncture editor between edit and preview modes.
