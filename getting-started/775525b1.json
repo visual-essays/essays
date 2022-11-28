@@ -57,7 +57,7 @@
         "conformsTo": "http://www.w3.org/TR/media-frags/",
         "value": "xywh=pixel:857.2459716796875,151.98008728027344,35.89678955078125,43.86167907714844"
       },
-      "id": "/visual-essays/essays/getting-started/775525b1"
+      "id": "getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "de7c7af6"
