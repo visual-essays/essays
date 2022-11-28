@@ -20,7 +20,7 @@ After logging in with Github and providing Juncture access to your Github accoun
 
 ### Juncture Editor Overview
 
-.ve-media gh:visual-essays/media/videos/GitHub_Login.mp4 right
+.ve-image gh:visual-essays/media/images/Juncture_Editor.png right
 
 1. Github repository selector
 2. Markdown toolbar
