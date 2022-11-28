@@ -55,7 +55,7 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:857.2459716796875,151.98008728027344,35.89678955078125,43.86167907714844"
+        "value": "xywh=pixel:857.2459716796875,156.93002319335938,32.03985595703125,38.9117431640625"
       },
       "id": "getting-started/775525b1"
     },
