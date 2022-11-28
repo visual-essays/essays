@@ -18,7 +18,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1/http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/79479e74"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/79479e74"
   },
   {
     "type": "Annotation",
@@ -36,10 +36,10 @@
         "conformsTo": "http://www.w3.org/TR/media-frags/",
         "value": "xywh=pixel:808.5762329101562,146.1577606201172,220.1705322265625,53.78761291503906"
       },
-      "id": "getting-started/775525b1"
+      "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/44cc3619"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1/http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/44cc3619"
   },
   {
     "type": "Annotation",
@@ -55,12 +55,12 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:819.1898803710938,152.7406005859375,36.3857421875,37.19224548339844"
+        "value": "xywh=pixel:857.2459716796875,151.98008728027344,35.89678955078125,43.86167907714844"
       },
-      "id": "/visual-essays/essays/getting-started/775525b1"
+      "id": "getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/de7c7af6"
+    "id": "http://localhost:8000/annotation/visual-essays/essays/getting-started/775525b1/de7c7af6"
   },
   {
     "type": "Annotation",
@@ -81,7 +81,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/48618266"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/48618266"
   },
   {
     "type": "Annotation",
@@ -102,7 +102,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/fbb24f5a"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/fbb24f5a"
   },
   {
     "type": "Annotation",
@@ -123,7 +123,7 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/c12e1ee4"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/c12e1ee4"
   },
   {
     "type": "Annotation",
@@ -144,6 +144,6 @@
       "id": "/visual-essays/essays/getting-started/775525b1"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/59ecd40f"
+    "id": "/annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1//annotation/visual-essays/essays/getting-started/775525b1/59ecd40f"
   }
 ]
