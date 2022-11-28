@@ -187,5 +187,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "2ca0f199"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Text authoring area",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/83b159d8ca202504e037e85b1d01cf8346a67883f1d60fc83724d9e2db5890fe",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:42.53877258300781,204.14320373535156,993.7967987060547,1275.5403900146484"
+      },
+      "id": "775525b1"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9d0bf556"
   }
 ]
