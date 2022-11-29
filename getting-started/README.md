@@ -12,20 +12,18 @@ Juncture users have the option of manually creating and updating essay source fi
 
 If you don't already have a Github account one can be created at [https://github.com/signup](https://github.com/signup)
 
-## Login with Github and Open Juncture Editor
+## Login with Github
+
+Logging into Github from Juncture authorizes Juncture to interact with your Github repository content from the Juncture Editor tool.  Note that this is an optional step as Github files may be edited directly in the Github web interface or by using any number of client applications running on your local computer. This getting start guide assumes the Juncture Editor is used.  The ==video below=={0} shows the basic process for logging into Github from Juncture.
 
 .ve-media gh:visual-essays/media/videos/GitHub_Login.mp4 right
 
-### Login to Github {style=clear:unset}
-
-Logging into Github from Juncture authorizes Juncture to interact with your Github repository content from the Juncture Editor tool.  Note that this is an optional step as Github files may be edited directly in the Github web interface or by using any number of client applications running on your local computer. This getting start guide assumes the Juncture Editor is used.
-
-1. ==Select Juncture "Login" from Juncture menu=={0,3}
+1. ==Select "Login" from the Juncture menu=={0,3}
 2. ==Login to Github=={4,7} with your Github username and password.
 3. ==Authorize Juncture to write Github content=={9,10}.  This will only be required on an initial login.  (Note that this authorization may be revoked using in [Github settings](https://github.com/settings/apps/authorizations))
-4. ==Open Juncture editor=={15} after logging in with Github.
+4. ==Open the Juncture editor=={15} after logging in with Github.
 
-### The Juncture Editor
+## The Juncture Editor
 
 Juncture provides a web-based editor for authoring visual essays.  The editor handles Github content management and includes a convenient preview option for viewing working versions of essays.  The Juncture editor also supports the automatic creation of viewer tags by simply dragging images and other media (including YouTube videos) into the browser window.
 
@@ -41,5 +39,12 @@ This section provides an overview of the Juncture editor sections.  Video clips 
     - ==Save=={560,0,522,762|fbb24f5a} - The save button will write the essay text to Github
     - ==Copy=={560,0,522,762|c12e1ee4} - Copies the essay text onto the clipboard
     - ==Launch=={560,0,522,762|59ecd40f} - The launch button will display the essay in a new tab
-5. ==Editor window=={0,0,1081,1602|9d0bf556}
-6. ==Viewer tag=={58,148,626,927|2ca0f199}
+5. ==The main editor window=={0,0,1081,1602|9d0bf556}
+6. A sample ==Viewer tag=={58,148,626,927|2ca0f199}
+
+## Creating a simple essay
+
+In this section we will create a simple visual essay.  This essay will include a few commonly used Juncture features:
+1. A header with a title and banner image
+2. Text narrative with footnotes
+3. A high resolution image
