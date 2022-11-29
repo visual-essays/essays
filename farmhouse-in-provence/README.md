@@ -6,7 +6,7 @@ _From Wikipedia, the free encyclopedia_[^1]
 
 ----
 
-Farmhouse in Provence, also known as Entrance Gate to a Farm with Haystacks, is an oil-on-canvas painting produced in 1888 by Dutch painter Vincent van Gogh in Arles, Provence, at the height of his career. Partially due to having been inspired by painter Adolphe Monticelli, Van Gogh sought the Provence region of France to further expand his painting skill and experience. Van Gogh used several pairs of complementary colors in the Farmhouse in Provence, the color contrast bringing an intensity to his work. The painting is owned by the National Gallery of Art in Washington, D.C.
+Farmhouse in Provence, also known as Entrance Gate to a Farm with Haystacks, is an oil-on-canvas painting produced in 1888 by Dutch painter ==Vincent van Gogh=={Q5582} in ==Arles=={Q48292}, Provence, at the height of his career. Partially due to having been inspired by painter Adolphe Monticelli, Van Gogh sought the Provence region of France to further expand his painting skill and experience. Van Gogh used several pairs of complementary colors in the Farmhouse in Provence, the color contrast bringing an intensity to his work. The painting is owned by the National Gallery of Art in Washington, D.C.
 
 .ve-media wc:Farmhouse_in_Provence,_1888,_Vincent_van_Gogh,_NGA.jpg sticky
 
@@ -22,7 +22,7 @@ In a letter to his brother, Theo, he wrote, "Painting as it is now, promises to 
 
 ## The painting
 
-Van Gogh used three pairs of complementary, or contrasting, colors which when sat together intensified the brilliance and intensity of one another's colors. One pair is orange and blue. Another would be the red and green of the plants. Last, pink clouds against the turquoise sky.
+Van Gogh used three pairs of complementary, or contrasting, colors which when sat together intensified the brilliance and intensity of one another's colors. One pair is orange and blue. Another would be the ==red and green of the plants=={3770,8867,2661,2002}. Last, ==pink clouds against the turquoise sky=={8397,148,2218,1668}.
 
 Van Gogh used complementary, contrasting colors to bring an intensity to his work, which evolved over the periods of his work. Two complementary colors of the same degree of vividness and brightness placed next to one another produce an intense reaction, called the "law of simultaneous contrast."
 
@@ -30,6 +30,6 @@ Van Gogh mentioned the liveliness and interplay of "a wedding of two complementa
 
 While in Nuenen Van Gogh became familiar with Michel Eugène Chevreul's laws in weaving to maximize the intensity of colors through their contrast to adjacent colors.
 
-In Paris he was exposed through his brother Theo to Adolphe Monticelli's still life work with flowers, which he admired. First, he saw Monticelli's use of color as an expansion of Delacroix's theories of color and contrast. Secondly he admired the effect Monticelli created by heavy application of paint. It was partially Monticelli, from Marseilles, who inspired Van Gogh's southerly move to Provence. He felt such kinship for the man, and desire to emulate his style, that he wrote in a letter to his sister Wil that he felt as if he were "Monticelli's son or his brother."
+In Paris he was exposed through his brother Theo to Adolphe Monticelli's still life work with flowers, which he admired. First, he saw Monticelli's use of color as an expansion of Delacroix's theories of color and contrast. Secondly he admired the effect Monticelli created by ==heavy application of paint=={4768,9510,516,388}. It was partially Monticelli, from Marseilles, who inspired Van Gogh's southerly move to Provence. He felt such kinship for the man, and desire to emulate his style, that he wrote in a letter to his sister Wil that he felt as if he were "Monticelli's son or his brother."
 
 [^1]: [Farmhouse in Provence](https://en.wikipedia.org/wiki/Farmhouse_in_Provence)
